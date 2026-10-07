@@ -1,0 +1,37 @@
+{
+ "file": "/NOR/SENKA.E;1",
+ "strings": [
+  {
+   "id": "NOR/SENKA.E@106C",
+   "offset": 4204,
+   "slot": 27,
+   "ko": "쓰러뜨린 적의 목록입니다",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/SENKA.E@10B0",
+   "offset": 4272,
+   "slot": 23,
+   "ko": "{cf30}○{b6}버튼{br}：뒤로",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/SENKA.E@10F4",
+   "offset": 4340,
+   "slot": 15,
+   "ko": "처치한 적 수",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/SENKA.E@117C",
+   "offset": 4476,
+   "slot": 19,
+   "ko": "위아래로 스크롤",
+   "status": "draft",
+   "note": ""
+  }
+ ]
+}

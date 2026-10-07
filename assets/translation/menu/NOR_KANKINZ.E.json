@@ -1,0 +1,53 @@
+{
+ "file": "/NOR/KANKINZ.E;1",
+ "strings": [
+  {
+   "id": "NOR/KANKINZ.E@1F88",
+   "offset": 8072,
+   "slot": 15,
+   "ko": "합계：",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/KANKINZ.E@1FB4",
+   "offset": 8116,
+   "slot": 7,
+   "ko": "칩",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/KANKINZ.E@1FE0",
+   "offset": 8160,
+   "slot": 39,
+   "ko": "　{cf30}○{b6}버튼{br}을 누르세요。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/KANKINZ.E@2048",
+   "offset": 8264,
+   "slot": 35,
+   "ko": "여기까지 세이브하겠습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/KANKINZ.E@2074",
+   "offset": 8308,
+   "slot": 7,
+   "ko": "예",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/KANKINZ.E@20A0",
+   "offset": 8352,
+   "slot": 7,
+   "ko": "아니요",
+   "status": "draft",
+   "note": ""
+  }
+ ]
+}

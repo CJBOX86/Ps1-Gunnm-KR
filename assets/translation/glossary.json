@@ -1,0 +1,2194 @@
+{
+ "policy": "국내 정발판 『총몽』(서울문화사) 표기를 따른다. confidence: official = 정발판 표기로 알려진 것, guess = 게임 오리지널이거나 정발 표기 확인 전이라 임시로 정한 것 (사람 확인 필요)",
+ "terms": [
+  {
+   "jp": "ガリィ",
+   "ko": "갈리",
+   "kind": "인물",
+   "confidence": "official"
+  },
+  {
+   "jp": "イド",
+   "ko": "이드",
+   "kind": "인물",
+   "confidence": "official",
+   "note": "이드 다이스케(イド・ダイスケ) 사용자 지정 표기(2026-10-07)"
+  },
+  {
+   "jp": "ゴンズ",
+   "ko": "곤즈",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ユーゴ",
+   "ko": "유고",
+   "kind": "인물",
+   "confidence": "official"
+  },
+  {
+   "jp": "ザレム",
+   "ko": "자렘",
+   "kind": "지명",
+   "confidence": "official"
+  },
+  {
+   "jp": "クズ鉄町",
+   "ko": "고철마을",
+   "kind": "지명",
+   "confidence": "official"
+  },
+  {
+   "jp": "ファクトリー",
+   "ko": "팩토리",
+   "kind": "조직",
+   "confidence": "official"
+  },
+  {
+   "jp": "ハンター・ウォリアー",
+   "ko": "헌터 워리어",
+   "kind": "직업",
+   "confidence": "official"
+  },
+  {
+   "jp": "ハンター",
+   "ko": "헌터",
+   "kind": "직업",
+   "confidence": "official"
+  },
+  {
+   "jp": "賞金首",
+   "ko": "현상범",
+   "kind": "용어",
+   "confidence": "official"
+  },
+  {
+   "jp": "モーターボール",
+   "ko": "모터볼",
+   "kind": "용어",
+   "confidence": "official"
+  },
+  {
+   "jp": "モーターボーラー",
+   "ko": "모터볼러",
+   "kind": "용어",
+   "confidence": "official"
+  },
+  {
+   "jp": "ノヴァ",
+   "ko": "노바",
+   "kind": "인물",
+   "confidence": "official",
+   "note": "ディスティ・ノヴァ = 디스티 노바"
+  },
+  {
+   "jp": "ザパン",
+   "ko": "자팡",
+   "kind": "인물",
+   "confidence": "official"
+  },
+  {
+   "jp": "マカク",
+   "ko": "마카쿠",
+   "kind": "인물",
+   "confidence": "official"
+  },
+  {
+   "jp": "ケイオス",
+   "ko": "케이오스",
+   "kind": "인물",
+   "confidence": "official"
+  },
+  {
+   "jp": "電",
+   "ko": "덴",
+   "kind": "인물",
+   "confidence": "official"
+  },
+  {
+   "jp": "ジャシュガン",
+   "ko": "저슈건",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "デッキマン",
+   "ko": "데크맨",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ベクター",
+   "ko": "벡터",
+   "kind": "인물",
+   "confidence": "official"
+  },
+  {
+   "jp": "コヨミ",
+   "ko": "코요미",
+   "kind": "인물",
+   "confidence": "official"
+  },
+  {
+   "jp": "フューリー",
+   "ko": "퓨리",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ルウ",
+   "ko": "루",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "アリタ",
+   "ko": "아리타",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "エスドック",
+   "ko": "오스도그",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ウンバ",
+   "ko": "운바",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "フォギア",
+   "ko": "퍼기어",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "사용자 지정 표기(2026-10-07)"
+  },
+  {
+   "jp": "ホッパー",
+   "ko": "호퍼",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ポチョムキン",
+   "ko": "포촘킨",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ビゴット",
+   "ko": "비고트",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "マスター",
+   "ko": "마스터",
+   "kind": "호칭",
+   "confidence": "guess"
+  },
+  {
+   "jp": "リメイラ",
+   "ko": "리메이라",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ヨルグ",
+   "ko": "요르그",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ガルエデ",
+   "ko": "갈에데",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "シュミラ",
+   "ko": "슈미라",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ズオウ",
+   "ko": "즈오우",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "マードック",
+   "ko": "머독",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ボッズル",
+   "ko": "보즐",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "脳髄女王",
+   "ko": "뇌수 여왕",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ケイナ",
+   "ko": "케이나",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "イーライ",
+   "ko": "일라이",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "クライヴ・李",
+   "ko": "클라이브 리",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ナックルヘッド",
+   "ko": "너클헤드",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ネットマン",
+   "ko": "넷맨",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "キヌバ",
+   "ko": "키누바",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "メルキゼデク",
+   "ko": "멜키세덱",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "メギル",
+   "ko": "메길",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "バージャック",
+   "ko": "바잭",
+   "kind": "조직",
+   "confidence": "official"
+  },
+  {
+   "jp": "ヤスミン",
+   "ko": "야스민",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ヘルンバイン",
+   "ko": "헤른바인",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "バーゼラルド",
+   "ko": "바젤랄드",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "アジャカティ",
+   "ko": "아자카티",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ティーゲル",
+   "ko": "티거",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ティーガー・ザウエル",
+   "ko": "티거 자우어",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "アルムブレスト",
+   "ko": "암브레스트",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "バザルド",
+   "ko": "바자르드",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ラウド",
+   "ko": "라우드",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "グローリー",
+   "ko": "글로리",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "レヴァイアサン",
+   "ko": "레비아탄",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ウロボロス",
+   "ko": "우로보로스",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "カンサス",
+   "ko": "캔자스",
+   "kind": "지명",
+   "confidence": "official"
+  },
+  {
+   "jp": "バーカンサス",
+   "ko": "바 캔자스",
+   "kind": "지명",
+   "confidence": "official"
+  },
+  {
+   "jp": "フォボス",
+   "ko": "포보스",
+   "kind": "지명",
+   "confidence": "official"
+  },
+  {
+   "jp": "オフィア・チャスマ",
+   "ko": "오피어 카스마",
+   "kind": "지명",
+   "confidence": "guess"
+  },
+  {
+   "jp": "グラナイト・イン",
+   "ko": "그래나이트 인",
+   "kind": "지명",
+   "confidence": "guess"
+  },
+  {
+   "jp": "イェール",
+   "ko": "예일",
+   "kind": "지명",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ベクタービル",
+   "ko": "벡터 빌딩",
+   "kind": "지명",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ラジオ・ケイオス",
+   "ko": "라디오 케이오스",
+   "kind": "용어",
+   "confidence": "official"
+  },
+  {
+   "jp": "サイボーグ",
+   "ko": "사이보그",
+   "kind": "용어",
+   "confidence": "official"
+  },
+  {
+   "jp": "サイバネ",
+   "ko": "사이버네",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "サイバネ医師 = 사이버네 의사"
+  },
+  {
+   "jp": "バーサーカー",
+   "ko": "버서커",
+   "kind": "용어",
+   "confidence": "official"
+  },
+  {
+   "jp": "バーサーカーボディ",
+   "ko": "버서커 보디",
+   "kind": "용어",
+   "confidence": "official"
+  },
+  {
+   "jp": "イマジノスボディ",
+   "ko": "이매지노스 보디",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ボディ",
+   "ko": "보디",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "テラフォーミング",
+   "ko": "테라포밍",
+   "kind": "용어",
+   "confidence": "official"
+  },
+  {
+   "jp": "テロライザー",
+   "ko": "테롤라이저",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "シリンダー",
+   "ko": "실린더",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "チップ",
+   "ko": "칩",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "화폐 단위"
+  },
+  {
+   "jp": "市民",
+   "ko": "시민",
+   "kind": "화자",
+   "confidence": "guess"
+  },
+  {
+   "jp": "住民",
+   "ko": "주민",
+   "kind": "화자",
+   "confidence": "guess"
+  },
+  {
+   "jp": "村民",
+   "ko": "마을 사람",
+   "kind": "화자",
+   "confidence": "guess"
+  },
+  {
+   "jp": "警備員",
+   "ko": "경비원",
+   "kind": "화자",
+   "confidence": "guess"
+  },
+  {
+   "jp": "警備兵",
+   "ko": "경비병",
+   "kind": "화자",
+   "confidence": "guess"
+  },
+  {
+   "jp": "店主",
+   "ko": "주인",
+   "kind": "화자",
+   "confidence": "guess"
+  },
+  {
+   "jp": "男",
+   "ko": "남자",
+   "kind": "화자",
+   "confidence": "guess"
+  },
+  {
+   "jp": "サイボーグ少女",
+   "ko": "사이보그 소녀",
+   "kind": "화자",
+   "confidence": "guess"
+  },
+  {
+   "jp": "整備処",
+   "ko": "정비소",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "イド整備処",
+   "ko": "이드 정비소",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ストリート",
+   "ko": "스트리트",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ワールドマップ",
+   "ko": "월드맵",
+   "kind": "시스템",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "コロッシアム",
+   "ko": "콜로세움",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "地下闘技場",
+   "ko": "지하 투기장",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "闇医者",
+   "ko": "뒷골목 의사",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "闇医者王",
+   "ko": "뒷골목 의사왕",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "闇診療所",
+   "ko": "뒷골목 진료소",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "通り魔",
+   "ko": "길거리 살인마",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "賞金稼ぎ",
+   "ko": "현상금 사냥꾼",
+   "kind": "직업",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ヤブ医者",
+   "ko": "돌팔이 의사",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "グラインドカッター",
+   "ko": "그라인드 커터",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "キバ公",
+   "ko": "키바 녀석",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "パンツァークンスト",
+   "ko": "판처쿤스트",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "機甲術",
+   "ko": "기갑술",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "コンビナート",
+   "ko": "콤비나트",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ファクトリー３３",
+   "ko": "팩토리 ３３",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "解体屋",
+   "ko": "해체소",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ファーム",
+   "ko": "농장",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ファームビレッジ",
+   "ko": "팜 빌리지",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "イェールガーデン",
+   "ko": "예일 가든",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "廃工場",
+   "ko": "폐공장",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "メギル商会",
+   "ko": "메길 상회",
+   "kind": "조직",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "注射魔",
+   "ko": "주사마",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "サイボーグ犬",
+   "ko": "사이보그 개",
+   "kind": "화자",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "衛兵",
+   "ko": "위병",
+   "kind": "화자",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ベイビー",
+   "ko": "베이비",
+   "kind": "호칭",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "グランド・チャンプ",
+   "ko": "그랜드 챔프",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ザレム山",
+   "ko": "자렘 산",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "生身",
+   "ko": "생체",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "チューンナップ",
+   "ko": "튠업",
+   "kind": "시스템",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "レヴァイアサン１",
+   "ko": "레비아탄１",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "イニシエーション",
+   "ko": "이니시에이션",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "火星城",
+   "ko": "화성성",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "프롤로그 초벌 번역에서 정함"
+  },
+  {
+   "jp": "闇ブローカー",
+   "ko": "뒷골목 브로커",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "脊椎強盗",
+   "ko": "척추 강도",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "パーツ強盗",
+   "ko": "파츠 강도",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ワーウルフピル",
+   "ko": "웨어울프 필",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "屋台街",
+   "ko": "포장마차 거리",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "エスドック・モータース",
+   "ko": "오스도그 모터스",
+   "kind": "조직",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "白熱掌",
+   "ko": "백열장",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "キリング・エンジェル",
+   "ko": "킬링 엔젤",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ソバットマン",
+   "ko": "소바트맨",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "包帯男",
+   "ko": "붕대 남자",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "手下",
+   "ko": "부하",
+   "kind": "화자",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "少年",
+   "ko": "소년",
+   "kind": "화자",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ボタ山",
+   "ko": "폐석더미",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "サーキット",
+   "ko": "서킷",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ファクトリー法",
+   "ko": "팩토리법",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "イド診療所",
+   "ko": "이드 진료소",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "謎のでぶ",
+   "ko": "수수께끼 뚱보",
+   "kind": "화자",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "注油屋",
+   "ko": "주유 장사(일) / 주유꾼(사람)",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "地下下水坑",
+   "ko": "지하 하수갱",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "バラック集落",
+   "ko": "판자촌",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "1장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "エド",
+   "ko": "에드",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ザファル・タキエ",
+   "ko": "자파르 타키에",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "機関拳",
+   "ko": "기관권",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ターミナルフロスト",
+   "ko": "터미널 프로스트",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "フリーステージ",
+   "ko": "프리 스테이지",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "帝王",
+   "ko": "제왕",
+   "kind": "호칭",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "西部地区",
+   "ko": "서부 지구",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "チューナー",
+   "ko": "튜너",
+   "kind": "직업",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ゼッケン",
+   "ko": "등번호",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "リターンマッチ",
+   "ko": "리턴 매치",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "モーターボールの恥部",
+   "ko": "모터볼의 수치",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "エイジアン・アーツ",
+   "ko": "에이지언 아츠",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "グシ拳",
+   "ko": "구시권",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "地功拳",
+   "ko": "지공권",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "暴帝",
+   "ko": "폭제",
+   "kind": "호칭",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ヘル・エリア",
+   "ko": "헬 에리어",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "フラットライン",
+   "ko": "플랫라인",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "絶対死",
+   "ko": "절대사",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "モーターホーム",
+   "ko": "모터홈",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "ダマスカス鋼",
+   "ko": "다마스쿠스강",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "プレイヤー",
+   "ko": "플레이어",
+   "kind": "화자",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "殺戮の天使",
+   "ko": "살육의 천사",
+   "kind": "호칭",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "王室区画",
+   "ko": "왕실 구역",
+   "kind": "지명",
+   "confidence": "guess",
+   "note": "2장 초벌 번역에서 정함"
+  },
+  {
+   "jp": "サラ",
+   "ko": "사라",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "머독의 딸"
+  },
+  {
+   "jp": "カルマ",
+   "ko": "카르마",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "業＜カルマ＞=업＜카르마＞"
+  },
+  {
+   "jp": "魔人",
+   "ko": "마인",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "老ハンター",
+   "ko": "늙은 헌터",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "화자명"
+  },
+  {
+   "jp": "巨漢",
+   "ko": "거한",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "화자명"
+  },
+  {
+   "jp": "運転手",
+   "ko": "운전사",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "화자명"
+  },
+  {
+   "jp": "シリンダーデッキマン",
+   "ko": "실린더 데크맨",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "はぐれデッキマン",
+   "ko": "떠돌이 데크맨",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ドッグマスター",
+   "ko": "도그 마스터",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "머독의 별칭"
+  },
+  {
+   "jp": "ブラックドッグ",
+   "ko": "블랙 독",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "コラプサー",
+   "ko": "콜랩서",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "細胞破壊体=세포 파괴체"
+  },
+  {
+   "jp": "リストーラー",
+   "ko": "리스토러",
+   "kind": "아이템",
+   "confidence": "guess"
+  },
+  {
+   "jp": "雷獣",
+   "ko": "번개 짐승",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "뇌수와 구분"
+  },
+  {
+   "jp": "ファクトリー４４",
+   "ko": "팩토리 ４４",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ファーム２１",
+   "ko": "농장 ２１",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ボイリングメタル",
+   "ko": "보일링 메탈",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "人面都市",
+   "ko": "인면 도시",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "東部地区",
+   "ko": "동부 지구",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "北部地区",
+   "ko": "북부 지구",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ボランティア旅団",
+   "ko": "자원봉사 여단",
+   "kind": "조직",
+   "confidence": "guess"
+  },
+  {
+   "jp": "運び屋",
+   "ko": "운반꾼",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "スクラップ置場",
+   "ko": "고철 처리장",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "看板娘",
+   "ko": "간판 아가씨",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "看板ムスメ 동일"
+  },
+  {
+   "jp": "オペ式",
+   "ko": "오페식",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ナノマシン",
+   "ko": "나노머신",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ナノテクノロジー",
+   "ko": "나노테크놀로지",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "スッピン",
+   "ko": "맨몸",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "무개조 생체를 가리키는 은어"
+  },
+  {
+   "jp": "ライブラリ",
+   "ko": "라이브러리",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "アクティブボディ",
+   "ko": "액티브 보디",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "アライメント",
+   "ko": "얼라인먼트",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "死の天使",
+   "ko": "죽음의 천사",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "殺戮の天使(살육의 천사)와 별개"
+  },
+  {
+   "jp": "火星マスター",
+   "ko": "화성 마스터",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "プラズマ",
+   "ko": "플라즈마",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "플라스마 아님"
+  },
+  {
+   "jp": "クライブ李",
+   "ko": "클라이브 리",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "クライヴ・李와 동일 인물"
+  },
+  {
+   "jp": "アルハンブラ",
+   "ko": "알함브라",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ファーム２２",
+   "ko": "농장 ２２",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ナックル",
+   "ko": "너클",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "너클헤드의 줄임말"
+  },
+  {
+   "jp": "大首領・電（デン）",
+   "ko": "대수령 덴",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "읽기 괄호는 생략"
+  },
+  {
+   "jp": "遺跡都市",
+   "ko": "유적 도시",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ファクトリー列車",
+   "ko": "팩토리 열차",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ファクトリー鉄道",
+   "ko": "팩토리 철도",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "傭兵",
+   "ko": "용병",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "列車傭兵=열차 용병, 傭兵団=용병단"
+  },
+  {
+   "jp": "レンタガン",
+   "ko": "렌타건",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "フォギア・フォア",
+   "ko": "퍼기어 포어",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "사용자 지정 표기(2026-10-07)"
+  },
+  {
+   "jp": "機動盗賊",
+   "ko": "기동 도적",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "盗賊団=도적단"
+  },
+  {
+   "jp": "対サイバネ骨法",
+   "ko": "대 사이버네 골법",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "Ｇコマンド",
+   "ko": "Ｇ커맨드",
+   "kind": "조직",
+   "confidence": "guess"
+  },
+  {
+   "jp": "報奨金",
+   "ko": "보상금",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "報奨金受取=보상금 수령"
+  },
+  {
+   "jp": "駐在所",
+   "ko": "주재소",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "月面大使",
+   "ko": "월면 대사",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "화자명"
+  },
+  {
+   "jp": "星船",
+   "ko": "별의 배",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "地上人",
+   "ko": "지상인",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "ザレム人=자렘인"
+  },
+  {
+   "jp": "メルトダウン",
+   "ko": "멜트다운",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "変人参謀",
+   "ko": "괴짜 참모",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "連隊",
+   "ko": "연대",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "連隊長=연대장"
+  },
+  {
+   "jp": "圏外議院ＬＡＤＤＥＲ",
+   "ko": "권외 의원 ＬＡＤＤＥＲ",
+   "kind": "조직",
+   "confidence": "guess",
+   "note": "＜ラダー＞/らだー → 래더"
+  },
+  {
+   "jp": "地上監察局",
+   "ko": "지상 감찰국",
+   "kind": "조직",
+   "confidence": "guess",
+   "note": "원문 地上観察局도 같은 표기로 통일. Ｇ－Ｉ－Ｂ"
+  },
+  {
+   "jp": "医療監察局",
+   "ko": "의료 감찰국",
+   "kind": "조직",
+   "confidence": "guess",
+   "note": "＜ＭＩＢ＞"
+  },
+  {
+   "jp": "土星大使",
+   "ko": "토성 대사",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "서툰 말투, 쉼표로 끊어 말함"
+  },
+  {
+   "jp": "土星人",
+   "ko": "토성인",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "エコンドライト",
+   "ko": "에콘드라이트",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "コリンズ",
+   "ko": "콜린스",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "ルウ・コリンズ=루 콜린스"
+  },
+  {
+   "jp": "ガブリエル",
+   "ko": "가브리엘",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ソレノイド・クエンチガン",
+   "ko": "솔레노이드 퀜치건",
+   "kind": "아이템",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ソレノイド徹鋼弾",
+   "ko": "솔레노이드 철갑탄",
+   "kind": "아이템",
+   "confidence": "guess"
+  },
+  {
+   "jp": "超伝導相転移砲",
+   "ko": "초전도 상전이포",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "サイコメトリー",
+   "ko": "사이코메트리",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "剣鬼",
+   "ko": "검귀",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "秘剣=비검, 剣気=검기"
+  },
+  {
+   "jp": "＜機＞",
+   "ko": "＜기＞",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "機動ユニット",
+   "ko": "기동 유닛",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "イオンクラフト",
+   "ko": "이온크래프트",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ＭＨＤクラフト",
+   "ko": "ＭＨＤ 크래프트",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ホットライン",
+   "ko": "핫라인",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ザレム直轄農場",
+   "ko": "자렘 직할 농장",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ザレム人",
+   "ko": "자렘인",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "中央電脳",
+   "ko": "중앙 전뇌",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "中央電脳メルキゼデク=중앙 전뇌 멜키세덱"
+  },
+  {
+   "jp": "不可触原則",
+   "ko": "불가촉 원칙",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "花崗岩堂",
+   "ko": "화강암당",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "対自核夢",
+   "ko": "대자핵몽",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "青天井公園",
+   "ko": "청천 공원",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ＵＭＡ（ユーマ）",
+   "ko": "ＵＭＡ（유마）",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ダストチェンバー",
+   "ko": "더스트 체임버",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ソケット兵",
+   "ko": "소켓병",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "電王",
+   "ko": "덴왕",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "電殿=덴 공"
+  },
+  {
+   "jp": "鎧人形",
+   "ko": "갑옷 인형",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ザレムの塔",
+   "ko": "자렘의 탑",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "レプリカ",
+   "ko": "레플리카",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "分子電脳",
+   "ko": "분자 전뇌",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ＧＲシリーズ",
+   "ko": "ＧＲ 시리즈",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "量産型ＴＵＮＥＤ=양산형 ＴＵＮＥＤ"
+  },
+  {
+   "jp": "ＴＵＮＥＤ",
+   "ko": "ＴＵＮＥＤ",
+   "kind": "조직",
+   "confidence": "guess",
+   "note": "원문 그대로, （チューンド）=（튠드）"
+  },
+  {
+   "jp": "陽子",
+   "ko": "요코",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "看護婦",
+   "ko": "간호사",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "화자명"
+  },
+  {
+   "jp": "戦果の確認",
+   "ko": "전과 확인",
+   "kind": "메뉴",
+   "confidence": "guess"
+  },
+  {
+   "jp": "虚構世界",
+   "ko": "가상 세계",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "단독 虚構=허구"
+  },
+  {
+   "jp": "ハイパーコンピューター",
+   "ko": "하이퍼컴퓨터",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "サイコアクティヴ",
+   "ko": "사이코액티브",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ノヴァおじさん",
+   "ko": "노바 아저씨",
+   "kind": "호칭",
+   "confidence": "guess",
+   "note": "아리타의 호칭"
+  },
+  {
+   "jp": "ダイアリー",
+   "ko": "일기장",
+   "kind": "아이템",
+   "confidence": "guess",
+   "note": "세이브용"
+  },
+  {
+   "jp": "天空の都市",
+   "ko": "하늘의 도시",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "復讐鬼",
+   "ko": "복수귀",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "性格矯正",
+   "ko": "성격 교정",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "成物（じょうぶつ）",
+   "ko": "성물",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "成仏=성불 말장난"
+  },
+  {
+   "jp": "スーパードグマ",
+   "ko": "슈퍼 도그마",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "軌道エレベーター",
+   "ko": "궤도 엘리베이터",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "宇宙都市",
+   "ko": "우주 도시",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "技術行政官",
+   "ko": "기술 행정관",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "イェール人",
+   "ko": "예일인",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ＬＡＤＤＥＲ協定",
+   "ko": "ＬＡＤＤＥＲ 협정",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "ＬＡＤＤＥＲ議会=ＬＡＤＤＥＲ 의회"
+  },
+  {
+   "jp": "コアルーム",
+   "ko": "코어룸",
+   "kind": "장소",
+   "confidence": "guess",
+   "note": "メルキゼデク・コアルーム=멜키세덱 코어룸"
+  },
+  {
+   "jp": "ジオ・カタストロフィ",
+   "ko": "지오 카타스트로프",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "宇宙一格闘トーナメント",
+   "ko": "우주 제일 격투 토너먼트",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "金星大使",
+   "ko": "금성 대사",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "地球/木星/火星大使=지구/목성/화성 대사"
+  },
+  {
+   "jp": "大使区",
+   "ko": "대사구",
+   "kind": "장소",
+   "confidence": "guess",
+   "note": "大使区画=대사 구역"
+  },
+  {
+   "jp": "星間船",
+   "ko": "성간선",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "星船教",
+   "ko": "성선교",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "星船=별의 배와 구분"
+  },
+  {
+   "jp": "エンケラドス",
+   "ko": "엔켈라도스",
+   "kind": "장소",
+   "confidence": "guess",
+   "note": "～事変=엔켈라도스 사변"
+  },
+  {
+   "jp": "ベヘモス",
+   "ko": "베헤모스",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ウォーメン",
+   "ko": "워멘",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ガーディアン",
+   "ko": "가디언",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "センチネル",
+   "ko": "센티넬",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "フュージョナー",
+   "ko": "퓨저너",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "メスメル流",
+   "ko": "메스머류",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "フランツ・アントン・メスメル=프란츠 안톤 메스머"
+  },
+  {
+   "jp": "ゼロＧ柔術",
+   "ko": "제로Ｇ 유술",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "核融合拳",
+   "ko": "핵융합권",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "きかんぼう山",
+   "ko": "키칸보야마",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "스모 선수"
+  },
+  {
+   "jp": "コスモ星丸",
+   "ko": "코스모 세이간",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "화자명"
+  },
+  {
+   "jp": "ロケテスト",
+   "ko": "현장 테스트",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "悶道（モンドー）",
+   "ko": "＜몬도＞",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "最終喜械",
+   "ko": "최종 환희기",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "機械→喜械 말장난, 검수 필요"
+  },
+  {
+   "jp": "エンドジョイ",
+   "ko": "엔드조이",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "公衆自殺機械",
+   "ko": "공중 자살 기계",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "市民失格者",
+   "ko": "시민 실격자",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "市民不適格者=시민 부적격자"
+  },
+  {
+   "jp": "ＭＩＢマシン",
+   "ko": "ＭＩＢ 머신",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "イマジノス",
+   "ko": "이매지노스",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "記憶脳",
+   "ko": "기억뇌",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "バーサーカー細胞",
+   "ko": "버서커 세포",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ガニメデ",
+   "ko": "가니메데",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "マリネリス渓谷",
+   "ko": "마리네리스 협곡",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "モーゼル・シュナイダー",
+   "ko": "모젤 슈나이더",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "デッキマン０号",
+   "ko": "데크맨 ０호",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "말투 ~다치/~냐치"
+  },
+  {
+   "jp": "脳髄の女王",
+   "ko": "뇌수 여왕",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "이 몸, ~느니라"
+  },
+  {
+   "jp": "人面腫",
+   "ko": "인면종",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "人面化=인면화"
+  },
+  {
+   "jp": "機甲術の谷",
+   "ko": "기갑술의 계곡",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "機甲術者",
+   "ko": "기갑술사",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "機甲術使い도 같음"
+  },
+  {
+   "jp": "機甲拳",
+   "ko": "기갑권",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "（パンツァー・ファウスト）=（판처파우스트）"
+  },
+  {
+   "jp": "屠龍四方殺",
+   "ko": "도룡사방살",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "（ドラッヘ・シュレーガー）=（드라헤 슐레거）"
+  },
+  {
+   "jp": "古式機甲術",
+   "ko": "고식 기갑술",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "大広間",
+   "ko": "대홀",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "墓所",
+   "ko": "묘소",
+   "kind": "장소",
+   "confidence": "guess",
+   "note": "ザウエルの墓所=자우어 묘소"
+  },
+  {
+   "jp": "奥義の書",
+   "ko": "오의서",
+   "kind": "아이템",
+   "confidence": "guess"
+  },
+  {
+   "jp": "木人（もくじん）",
+   "ko": "목인",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "宇宙港",
+   "ko": "우주항",
+   "kind": "장소",
+   "confidence": "guess"
+  },
+  {
+   "jp": "宇宙艇",
+   "ko": "우주정",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "親善大使",
+   "ko": "친선 대사",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "御前試合",
+   "ko": "어전 시합",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "側近",
+   "ko": "측근",
+   "kind": "인물",
+   "confidence": "guess",
+   "note": "하오체, 갈리는 그대/갈리 공"
+  },
+  {
+   "jp": "執事",
+   "ko": "집사",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "バーサーカー獣",
+   "ko": "버서커 짐승",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "バーサーカーガン",
+   "ko": "버서커 건",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "Ａ級バーサーカーハンター",
+   "ko": "Ａ급 버서커 헌터",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "カミソリの陽子",
+   "ko": "면도날 요코",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "大列車砲＜ヘング＞",
+   "ko": "대열차포 ＜헹구＞",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "馬借戦記",
+   "ko": "＜바잭 전기＞",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "바잭 말장난, 검수 필요"
+  },
+  {
+   "jp": "ＬＡＳＴ・ＯＲＤＥＲ",
+   "ko": "ＬＡＳＴ・ＯＲＤＥＲ",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "（ラスト・オーダー）=（라스트 오더）"
+  },
+  {
+   "jp": "仮死モード",
+   "ko": "가사 모드",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "技術官",
+   "ko": "기술관",
+   "kind": "용어",
+   "confidence": "guess",
+   "note": "技術行政官과 구분"
+  },
+  {
+   "jp": "Ｄｒ．ゴトー",
+   "ko": "Ｄｒ．고토",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "大脳教",
+   "ko": "대뇌교",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ソレッタ",
+   "ko": "솔레타",
+   "kind": "인물",
+   "confidence": "guess"
+  },
+  {
+   "jp": "詠春拳",
+   "ko": "영춘권",
+   "kind": "용어",
+   "confidence": "guess"
+  },
+  {
+   "jp": "ジークンドー",
+   "ko": "절권도",
+   "kind": "용어",
+   "confidence": "guess"
+  }
+ ],
+ "style": {
+  "데크맨": "말끝 ぢゅ → ~다쥬/~냐쥬",
+  "넷맨": "～べし → ～할지어다/～이니라",
+  "사투리 주민(っぺ)": "충청도식 (~슈, ~여)",
+  "호칭": "갈리→곤즈: 곤즈 아저씨, 이드→곤즈: 곤 씨, 시민→이드: 이드 선생님",
+  "케이나": "간사이 사투리 → 경상도식",
+  "갈에데": "でちゅ 아기 말투 → ~여/~예여체",
+  "자팡→갈리": "갈리 아가씨 (비꼼)",
+  "유고": "あんちゃん → 형",
+  "저슈건": "위엄 있는 반말(~다, ~군, ~나？)",
+  "운바": "동북 사투리 → 충청도식(~여, ~혀, ~구먼)",
+  "티거": "충청도식(~유), ガリィどん → 갈리 양반",
+  "리메이라": "공손한 존댓말, 갈리 님",
+  "오스도그": "거친 반말",
+  "코요미": "어린 시절은 아기 말투(대딴해～, 아라써～, キバ公 → 키바). 성장 후(4장)는 씩씩한 반말, 갈리는 「갈리 언니」, 덴은 「덴 님」",
+  "슈미라": "서툰 외국인 말투를 단순 반말로",
+  "노바": "존댓말, 상대를 ~군으로 부름(갈리 군, 이드 군)",
+  "마스터": "자네/~네/~일세",
+  "뒷골목 의사왕": "고압적인 ~느냐/~다체",
+  "퍼기어": "노인 말투(~구먼, ~겐가, ~일세), 상대는 자네. ガリィちゃん → 갈리",
+  "요르그": "말을 더듬는 반말",
+  "보즐": "군인다운 위압적 ~다/~군",
+  "루": "존댓말(해요체), 갈리는 「갈리 씨」",
+  "케이오스": "차분한 반말, 루는 「루 씨」",
+  "비고트": "위압적 ~다/~군, 갈리는 자네",
+  "노바(보충)": "갈리 군, 이드 군. 웃음 꺄하하하",
+  "아리타": "우로보로스 꿈속: 앳된 반말. 노바 아저씨, 곤즈 아저씨, ～씨",
+  "포촘킨": "정중한 존댓말, 갈리 씨",
+  "금성 대사": "거만한 ~다아！, 노바에게는 ~소/~구려",
+  "지구 대사": "노인 말투 ~일세/~구먼",
+  "데크맨 메뉴": "데이터 세이브, 보상금 수령, 보디 정비, 딱히 없어・・・",
+  "호퍼": "존댓말, 갈리 님 (묶음마다 공손체/해요체/~이옵니다로 갈림 — 검수 때 통일)",
+  "데크맨 0호": "~다치/~냐치",
+  "뇌수 여왕": "이 몸, ~느니라/~리라 고어투",
+  "즈오우": "위엄 있는 ~다/~느냐",
+  "포촘킨(7장)": "정신이 무너진 장면은 반말 독백 (검수 필요)"
+ }
+}

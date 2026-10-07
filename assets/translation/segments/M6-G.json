@@ -1,0 +1,331 @@
+{
+ "segment": "M6-G",
+ "blocks": [
+  {
+   "id": "M6/G/MP780_0",
+   "files": [
+    {
+     "path": "/M6/G/MP780_0.LDP;1",
+     "offset": 8192
+    }
+   ],
+   "sha256": "4bd9260d11c2000d3fb45b018e273fa6b52d28e7a64cdcddb5e1d89bda61a15e",
+   "font_candidates": [
+    "K08"
+   ],
+   "lines": [
+    {
+     "id": "M6/G/MP780_0#0",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}여기가・・・뇌수 여왕・・・\n언니의 마음속・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP780_0#1",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}２００년이나 되는 긴 세월에\n걸쳐 만들어진・・・\n증오와 원한의 미궁・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP780_0#2",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}하지만 나는 믿어！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP780_0#3",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}어딘가에・・・\n아직 인간다운 마음이\n숨겨져 있을 거야・・・！",
+     "status": "draft",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "M6/G/MP795_0",
+   "files": [
+    {
+     "path": "/M6/G/MP795_0.LDP;1",
+     "offset": 147456
+    }
+   ],
+   "sha256": "a69daae1dbf582426e1885594b8224ba269de4031ca6df9356c081c5e0e6b281",
+   "font_candidates": [
+    "K08"
+   ],
+   "lines": [
+    {
+     "id": "M6/G/MP795_0#0",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}네 이노오옴！！\n갈리이이잇！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#1",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}언니！？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#2",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}어찌하여 너는・・・\n이토록 내게 맞서는 것이냐앗！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#3",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}이 몸에게 마지막으로 남은\n꿈을 방해하려 드는\n것이냐아아아앗！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#4",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}결코 너를・・・\n이 미궁에서 놓아주지 않으리라！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#5",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}네 인생과 기억 전부를・・・\n이대로 이 몸의 마음속으로\n삼켜 주마아앗！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#6",
+     "flags": 7,
+     "ref": "M3/B/MP034_2#0"
+    },
+    {
+     "id": "M6/G/MP795_0#7",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}이건・・・나！？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#8",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}너는 본디 이 몸의\n몸에 생겨난 인면종！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#9",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}이 몸의・・・그림자에\n불과한 존재였을\n터이거늘！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#10",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}그 그림자 따위가 어찌\n이토록 찬란한 삶을 걷고・・・{page}이 몸이 그림자로 살아야만\n하는 것이냐아아앗！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#11",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}네 눈앞에 있는 것은・・・\n이 몸이 만들어 낸\n너 자신의 분신！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#12",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}끝내 이 몸의 꿈을\n막겠다면・・・{page}이 분신을 보란 듯이\n쓰러뜨리고・・・현실 세계로\n돌아가 보거라！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#13",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}언니！ 내 말 좀 들어！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#14",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}언니가 맛본 절망은・・・\n이해할 수 있어・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#15",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}하지만・・・세상 모든\n사람이 전쟁의 업화에\n불탄다 해도・・・{page}언니의 고통은 끝나지 않아！！\n・・・언니의 증오가\n사라지는 일은 없다고！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#16",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}깨달아 줘！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#17",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}닥쳐라아아아앗！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#18",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}언니・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#19",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}너는・・・너만은・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#20",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}・・・결코・・・{page}결코 용서치 않으리라・・・！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#21",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}이 몸은・・・\n너 때문에・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#22",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}미모도・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#23",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}기쁨도・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_0#24",
+     "flags": 7,
+     "ko": "{b5}뇌수 여왕：{br}희망조차도 잃어버리고\n만 것이니라아앗！！",
+     "status": "draft",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "M6/G/MP795_1",
+   "files": [
+    {
+     "path": "/M6/G/MP795_1.LDP;1",
+     "offset": 38912
+    }
+   ],
+   "sha256": "f73342dbb757e02522650ceda1ffbd2b3ad5da7bfa88a3c878ec682f517df16d",
+   "font_candidates": [
+    "K00",
+    "K04_1",
+    "K08"
+   ],
+   "lines": [
+    {
+     "id": "M6/G/MP795_1#0",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}・・・뭐지？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP795_1#1",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}아기・・・울음소리・・・？",
+     "status": "draft",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "M6/G/MP796_0",
+   "files": [
+    {
+     "path": "/M6/G/MP796_0.LDP;1",
+     "offset": 81920
+    }
+   ],
+   "sha256": "f80cc0a1812f05e378fc281c1e8f203725594af436826d1e819bc65ec8639f29",
+   "font_candidates": [
+    "K08"
+   ],
+   "lines": [
+    {
+     "id": "M6/G/MP796_0#0",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}{t8}・・・뭐지？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP796_0#1",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}{t8}아기의・・・{tr}울음소리・・・？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP796_0#2",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}이 아기는・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP796_0#3",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}언니의・・・마음・・・？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP796_0#4",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}새하얀・・・언니의 마음・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP796_0#5",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}증오와 슬픔의 두꺼운 베일을\n깨부수고・・・{page}마지막으로 남은 것・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M6/G/MP796_0#6",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}나, 언니를・・・\n구할 수 있었던 걸까・・・",
+     "status": "draft",
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

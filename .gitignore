@@ -1,0 +1,28 @@
+# 작업물·빌드 출력·원문 캐시 (원본에서 다시 만들 수 있음)
+/work/
+/out/
+/.emucap/
+
+# 로컬 경로 설정 (config/local.example.json 참고)
+/config/local.json
+
+# 원본·출력 디스크 이미지와 에뮬레이터 상태 (저장소에 올리지 않음)
+*.bin
+*.BIN
+*.cue
+*.iso
+*.img
+*.chd
+*.ecm
+*.pbp
+*.mcs
+*.mcr
+*.mcd
+*.state
+
+# Python·편집기
+__pycache__/
+*.py[cod]
+.DS_Store
+*.swp
+*~

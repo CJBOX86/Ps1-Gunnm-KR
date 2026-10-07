@@ -1,0 +1,29 @@
+{
+ "file": "/NOR/GAMEOVER.E;1",
+ "strings": [
+  {
+   "id": "NOR/GAMEOVER.E@0D34",
+   "offset": 3380,
+   "slot": 31,
+   "ko": "서브 게임에 재도전할까요？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GAMEOVER.E@0D60",
+   "offset": 3424,
+   "slot": 11,
+   "ko": "　　예",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GAMEOVER.E@0D8C",
+   "offset": 3468,
+   "slot": 11,
+   "ko": "　　아니요",
+   "status": "draft",
+   "note": ""
+  }
+ ]
+}

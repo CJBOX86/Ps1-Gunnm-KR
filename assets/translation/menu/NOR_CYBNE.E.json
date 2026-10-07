@@ -1,0 +1,109 @@
+{
+ "file": "/NOR/CYBNE.E;1",
+ "strings": [
+  {
+   "id": "NOR/CYBNE.E@2D04",
+   "offset": 11524,
+   "slot": 7,
+   "ko": "뒤　로",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/CYBNE.E@2D0C",
+   "offset": 11532,
+   "slot": 15,
+   "ko": "튠업",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/CYBNE.E@2D1C",
+   "offset": 11548,
+   "slot": 15,
+   "ko": "보디 회복",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/CYBNE.E@2D2C",
+   "offset": 11564,
+   "slot": 15,
+   "ko": "플라즈마 회복",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/CYBNE.E@2D3C",
+   "offset": 11580,
+   "slot": 15,
+   "ko": "내구력 회복",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/CYBNE.E@2D4C",
+   "offset": 11596,
+   "slot": 23,
+   "ko": "방어력 튠업",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/CYBNE.E@2D64",
+   "offset": 11620,
+   "slot": 23,
+   "ko": "공격력 튠업",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/CYBNE.E@2D7C",
+   "offset": 11644,
+   "slot": 23,
+   "ko": "내구력 튠업",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/CYBNE.E@2DC0",
+   "offset": 11712,
+   "slot": 35,
+   "ko": "더 이상 튠업할 수 없습니다",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/CYBNE.E@2DE4",
+   "offset": 11748,
+   "slot": 23,
+   "ko": "회복할 수 없습니다",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/CYBNE.E@2E84",
+   "offset": 11908,
+   "slot": 15,
+   "ko": "최대 내구력：",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/CYBNE.E@2F78",
+   "offset": 12152,
+   "slot": 31,
+   "ko": "칩입니다。 괜찮습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/CYBNE.E@2FA0",
+   "offset": 12192,
+   "slot": 27,
+   "ko": "칩이면 되쥬？까？까？",
+   "status": "draft",
+   "note": ""
+  }
+ ]
+}

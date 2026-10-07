@@ -1,0 +1,877 @@
+{
+ "file": "/NOR/WORLD00.E;1",
+ "strings": [
+  {
+   "id": "NOR/WORLD00.E@2628",
+   "offset": 9768,
+   "slot": 23,
+   "ko": "Ｅｐｉｓｏｄｅ：유고",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@2640",
+   "offset": 9792,
+   "slot": 23,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "NOR/WORLD00.E@2658",
+   "offset": 9816,
+   "slot": 23,
+   "ko": "Ｅｐｉｓｏｄｅ：자팡",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@2670",
+   "offset": 9840,
+   "slot": 27,
+   "ko": "Ｅｐｉｓｏｄｅ：퍼기어",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@268C",
+   "offset": 9868,
+   "slot": 27,
+   "ko": "Ｅｐｉｓｏｄｅ：케이오스",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@26A8",
+   "offset": 9896,
+   "slot": 27,
+   "ko": "Ｅｐｉｓｏｄｅ：우로보로스",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@26C4",
+   "offset": 9924,
+   "slot": 23,
+   "ko": "Ｅｐｉｓｏｄｅ：자렘",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@26DC",
+   "offset": 9948,
+   "slot": 27,
+   "ko": "Ｅｐｉｓｏｄｅ：예일",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@26F8",
+   "offset": 9976,
+   "slot": 27,
+   "ko": "Ｅｐｉｓｏｄｅ：레비아탄",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@2714",
+   "offset": 10004,
+   "slot": 23,
+   "ko": "Ｅｐｉｓｏｄｅ：화성",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@272C",
+   "offset": 10028,
+   "slot": 27,
+   "ko": "Ｅｐｉｓｏｄｅ：에필로그",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6AA4",
+   "offset": 27300,
+   "slot": 23,
+   "ko": "이드 다이스케 정비소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6AD4",
+   "offset": 27348,
+   "slot": 11,
+   "ko": "스트리트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6B04",
+   "offset": 27396,
+   "slot": 19,
+   "ko": "팩토리 ３３",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6B34",
+   "offset": 27444,
+   "slot": 15,
+   "ko": "바 캔자스",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6B64",
+   "offset": 27492,
+   "slot": 11,
+   "ko": "지하하수갱",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6B94",
+   "offset": 27540,
+   "slot": 11,
+   "ko": "（폐기）",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6BC4",
+   "offset": 27588,
+   "slot": 15,
+   "ko": "오프닝",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6C24",
+   "offset": 27684,
+   "slot": 23,
+   "ko": "이드 다이스케 정비소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6C54",
+   "offset": 27732,
+   "slot": 11,
+   "ko": "스트리트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6C84",
+   "offset": 27780,
+   "slot": 19,
+   "ko": "팩토리 ３３",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6CB4",
+   "offset": 27828,
+   "slot": 15,
+   "ko": "바 캔자스",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6CE4",
+   "offset": 27876,
+   "slot": 15,
+   "ko": "판자촌",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6D14",
+   "offset": 27924,
+   "slot": 7,
+   "ko": "폐공장",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6D44",
+   "offset": 27972,
+   "slot": 15,
+   "ko": "벡터 빌딩",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6D74",
+   "offset": 28020,
+   "slot": 11,
+   "ko": "지하하수갱",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6DD4",
+   "offset": 28116,
+   "slot": 23,
+   "ko": "이드 다이스케 정비소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6E04",
+   "offset": 28164,
+   "slot": 11,
+   "ko": "스트리트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6E34",
+   "offset": 28212,
+   "slot": 19,
+   "ko": "팩토리 ３３",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6E64",
+   "offset": 28260,
+   "slot": 15,
+   "ko": "바 캔자스",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6E94",
+   "offset": 28308,
+   "slot": 11,
+   "ko": "지하하수갱",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6EC4",
+   "offset": 28356,
+   "slot": 23,
+   "ko": "디스티 노바 저택",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6EF4",
+   "offset": 28404,
+   "slot": 23,
+   "ko": "이드 다이스케 정비소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6F24",
+   "offset": 28452,
+   "slot": 15,
+   "ko": "바 캔자스",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6F54",
+   "offset": 28500,
+   "slot": 7,
+   "ko": "작은방",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6FB4",
+   "offset": 28596,
+   "slot": 7,
+   "ko": "노점가",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@6FE4",
+   "offset": 28644,
+   "slot": 27,
+   "ko": "모터볼 서킷",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7044",
+   "offset": 28740,
+   "slot": 19,
+   "ko": "팩토리 철도",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7074",
+   "offset": 28788,
+   "slot": 19,
+   "ko": "그래나이트 인",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@70A4",
+   "offset": 28836,
+   "slot": 15,
+   "ko": "철도사고현장",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@70D4",
+   "offset": 28884,
+   "slot": 19,
+   "ko": "퍼기어들 야영지",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7104",
+   "offset": 28932,
+   "slot": 15,
+   "ko": "농장 ２１",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7134",
+   "offset": 28980,
+   "slot": 15,
+   "ko": "농장 ２２",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7164",
+   "offset": 29028,
+   "slot": 19,
+   "ko": "스크롤 맵１",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7194",
+   "offset": 29076,
+   "slot": 19,
+   "ko": "스크롤 맵２",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@71C4",
+   "offset": 29124,
+   "slot": 11,
+   "ko": "유적 도시",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@71F4",
+   "offset": 29172,
+   "slot": 19,
+   "ko": "보즐 부대 주둔지",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7224",
+   "offset": 29220,
+   "slot": 19,
+   "ko": "케이오스 트레일러",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7254",
+   "offset": 29268,
+   "slot": 19,
+   "ko": "케이오스 트레일러",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7284",
+   "offset": 29316,
+   "slot": 19,
+   "ko": "그래나이트 인２",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@72B4",
+   "offset": 29364,
+   "slot": 19,
+   "ko": "그래나이트 인３",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@72E4",
+   "offset": 29412,
+   "slot": 11,
+   "ko": "지상감찰국",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7344",
+   "offset": 29508,
+   "slot": 15,
+   "ko": "농장 ２２",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7374",
+   "offset": 29556,
+   "slot": 19,
+   "ko": "그래나이트 인",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@73A4",
+   "offset": 29604,
+   "slot": 15,
+   "ko": "농장 ２１",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@73D4",
+   "offset": 29652,
+   "slot": 19,
+   "ko": "스크롤 맵１",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7404",
+   "offset": 29700,
+   "slot": 19,
+   "ko": "스크롤 맵２",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7434",
+   "offset": 29748,
+   "slot": 19,
+   "ko": "케이오스 트레일러",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7464",
+   "offset": 29796,
+   "slot": 19,
+   "ko": "케이오스 트레일러",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7494",
+   "offset": 29844,
+   "slot": 19,
+   "ko": "그래나이트 인２",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@74C4",
+   "offset": 29892,
+   "slot": 19,
+   "ko": "그래나이트 인３",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@74F4",
+   "offset": 29940,
+   "slot": 11,
+   "ko": "지상감찰국",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7524",
+   "offset": 29988,
+   "slot": 7,
+   "ko": "협곡",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7554",
+   "offset": 30036,
+   "slot": 19,
+   "ko": "ＧＲ－２ 포인트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7584",
+   "offset": 30084,
+   "slot": 19,
+   "ko": "그래나이트 인",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@75B4",
+   "offset": 30132,
+   "slot": 19,
+   "ko": "트럭 스크롤",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@75E4",
+   "offset": 30180,
+   "slot": 11,
+   "ko": "유적 도시",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7614",
+   "offset": 30228,
+   "slot": 7,
+   "ko": "사막",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7674",
+   "offset": 30324,
+   "slot": 23,
+   "ko": "이드 다이스케 정비소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@76A4",
+   "offset": 30372,
+   "slot": 11,
+   "ko": "스트리트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@76D4",
+   "offset": 30420,
+   "slot": 19,
+   "ko": "팩토리 ３３",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7704",
+   "offset": 30468,
+   "slot": 15,
+   "ko": "바 캔자스",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7734",
+   "offset": 30516,
+   "slot": 7,
+   "ko": "폐공장",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7764",
+   "offset": 30564,
+   "slot": 11,
+   "ko": "지하하수갱",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@77C4",
+   "offset": 30660,
+   "slot": 15,
+   "ko": "노바 연구실",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@77F4",
+   "offset": 30708,
+   "slot": 11,
+   "ko": "지상감찰국",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7824",
+   "offset": 30756,
+   "slot": 11,
+   "ko": "청천 공원",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7854",
+   "offset": 30804,
+   "slot": 19,
+   "ko": "더스트 체임버",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7884",
+   "offset": 30852,
+   "slot": 11,
+   "ko": "의료감찰국",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@78E4",
+   "offset": 30948,
+   "slot": 19,
+   "ko": "궤도 엘리베이터",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7914",
+   "offset": 30996,
+   "slot": 27,
+   "ko": "멜키세덱 코어룸",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7944",
+   "offset": 31044,
+   "slot": 19,
+   "ko": "식민행성 대사구역",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7974",
+   "offset": 31092,
+   "slot": 19,
+   "ko": "예일 가든",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@79D4",
+   "offset": 31188,
+   "slot": 19,
+   "ko": "도킹 베이",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7A04",
+   "offset": 31236,
+   "slot": 11,
+   "ko": "거주 구역",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7A64",
+   "offset": 31332,
+   "slot": 11,
+   "ko": "인면 도시",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7A94",
+   "offset": 31380,
+   "slot": 11,
+   "ko": "기갑술계곡",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7AC4",
+   "offset": 31428,
+   "slot": 15,
+   "ko": "마리네리스협곡",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7AF4",
+   "offset": 31476,
+   "slot": 19,
+   "ko": "올림포스 우주항",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7B24",
+   "offset": 31524,
+   "slot": 15,
+   "ko": "자우어 묘소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7B54",
+   "offset": 31572,
+   "slot": 11,
+   "ko": "정신 미궁",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7B84",
+   "offset": 31620,
+   "slot": 27,
+   "ko": "멜키세덱 코어룸",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7BE4",
+   "offset": 31716,
+   "slot": 19,
+   "ko": "도킹 베이",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7C14",
+   "offset": 31764,
+   "slot": 11,
+   "ko": "거주 구역",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7F00",
+   "offset": 32512,
+   "slot": 19,
+   "ko": "반짝반짝소녀 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7F18",
+   "offset": 32536,
+   "slot": 19,
+   "ko": "버서커 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7F30",
+   "offset": 32560,
+   "slot": 23,
+   "ko": "모터볼 보디１",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7F48",
+   "offset": 32584,
+   "slot": 23,
+   "ko": "모터볼 보디２",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7F60",
+   "offset": 32608,
+   "slot": 19,
+   "ko": "액티브 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7F78",
+   "offset": 32632,
+   "slot": 19,
+   "ko": "ＴＵＮＥＤ 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7F90",
+   "offset": 32656,
+   "slot": 19,
+   "ko": "이매지노스 보디１",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7FA8",
+   "offset": 32680,
+   "slot": 19,
+   "ko": "이매지노스 보디２",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7FC0",
+   "offset": 32704,
+   "slot": 19,
+   "ko": "이매지노스 보디３",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7FD8",
+   "offset": 32728,
+   "slot": 15,
+   "ko": "리메이라 변장",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@7FF0",
+   "offset": 32752,
+   "slot": 7,
+   "ko": "이드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@8008",
+   "offset": 32776,
+   "slot": 11,
+   "ko": "퍼기어",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@8020",
+   "offset": 32800,
+   "slot": 7,
+   "ko": "아리타",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@8038",
+   "offset": 32824,
+   "slot": 19,
+   "ko": "렌타건 퍼기어",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/WORLD00.E@8050",
+   "offset": 32848,
+   "slot": 15,
+   "ko": "렌타 퍼기어",
+   "status": "draft",
+   "note": ""
+  }
+ ]
+}

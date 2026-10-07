@@ -1,0 +1,149 @@
+{
+ "file": "/NOR/OMAKE.E;1",
+ "strings": [
+  {
+   "id": "NOR/OMAKE.E@158C",
+   "offset": 5516,
+   "slot": 15,
+   "ko": "모터볼",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@15C0",
+   "offset": 5568,
+   "slot": 23,
+   "ko": "ＶＳ 버서커 자팡",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@15F4",
+   "offset": 5620,
+   "slot": 7,
+   "ko": "ＶＳ덴",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@1628",
+   "offset": 5672,
+   "slot": 19,
+   "ko": "ＶＳ 슈퍼 도그마",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@1690",
+   "offset": 5776,
+   "slot": 23,
+   "ko": "모터볼 게임",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@16C4",
+   "offset": 5828,
+   "slot": 19,
+   "ko": "스테이지 선택",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@16F8",
+   "offset": 5880,
+   "slot": 19,
+   "ko": "갈리의 체력 레벨",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@172C",
+   "offset": 5932,
+   "slot": 39,
+   "ko": "（낮음）１　２　３　４　５　６（높음）",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@1760",
+   "offset": 5984,
+   "slot": 23,
+   "ko": "갈리의 공격력 레벨",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@1794",
+   "offset": 6036,
+   "slot": 39,
+   "ko": "（낮음）１　２　３　４　５　６（높음）",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@17C8",
+   "offset": 6088,
+   "slot": 11,
+   "ko": "시작",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@1830",
+   "offset": 6192,
+   "slot": 23,
+   "ko": "트레이닝 스테이지",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@1864",
+   "offset": 6244,
+   "slot": 23,
+   "ko": "바젤랄드 스테이지",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@1898",
+   "offset": 6296,
+   "slot": 23,
+   "ko": "아자카티 스테이지",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@18CC",
+   "offset": 6348,
+   "slot": 15,
+   "ko": "타키에스테이지",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@1900",
+   "offset": 6400,
+   "slot": 19,
+   "ko": "티거 스테이지",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@1934",
+   "offset": 6452,
+   "slot": 23,
+   "ko": "암브레스트 스테이지",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/OMAKE.E@1968",
+   "offset": 6504,
+   "slot": 23,
+   "ko": "저슈건 스테이지",
+   "status": "draft",
+   "note": ""
+  }
+ ]
+}

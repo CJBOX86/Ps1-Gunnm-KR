@@ -1,0 +1,85 @@
+{
+ "file": "/NOR/SHOP.E;1",
+ "strings": [
+  {
+   "id": "NOR/SHOP.E@4AA4",
+   "offset": 19108,
+   "slot": 7,
+   "ko": "뒤　로",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/SHOP.E@4AAC",
+   "offset": 19116,
+   "slot": 7,
+   "ko": "팔　기",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/SHOP.E@4AB4",
+   "offset": 19124,
+   "slot": 7,
+   "ko": "사　기",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/SHOP.E@4BD4",
+   "offset": 19412,
+   "slot": 7,
+   "ko": "칩",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/SHOP.E@4BF8",
+   "offset": 19448,
+   "slot": 10,
+   "ko": "판매가：",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/SHOP.E@5034",
+   "offset": 20532,
+   "slot": 31,
+   "ko": "칩입니다。 괜찮습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/SHOP.E@505C",
+   "offset": 20572,
+   "slot": 27,
+   "ko": "칩이면 되쥬까？？？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/SHOP.E@5084",
+   "offset": 20612,
+   "slot": 19,
+   "ko": "몇 개 살까요？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/SHOP.E@5098",
+   "offset": 20632,
+   "slot": 19,
+   "ko": "몇 개 팔까요？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/SHOP.E@50AC",
+   "offset": 20652,
+   "slot": 15,
+   "ko": "장비할까요？",
+   "status": "draft",
+   "note": ""
+  }
+ ]
+}

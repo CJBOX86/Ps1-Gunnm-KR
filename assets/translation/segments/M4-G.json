@@ -1,0 +1,1148 @@
+{
+ "segment": "M4-G",
+ "blocks": [
+  {
+   "id": "M4/G/MP201_0",
+   "files": [
+    {
+     "path": "/M4/G/MP201_0.LDP;1",
+     "offset": 219136
+    }
+   ],
+   "sha256": "5ead49988bdea3196f5310a601f226a1c5de5f4dda5d03359c0aac594f2191fb",
+   "font_candidates": [
+    "K01",
+    "K04_1"
+   ],
+   "lines": [
+    {
+     "id": "M4/G/MP201_0#0",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}・・・그럴 수가・・・ 그럼・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_0#1",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}그저 자렘의 손바닥 위에서・・・\n놀아나고 있었다는 거야？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_0#2",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}지금까지 목숨 건 싸움이・・・！？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_0#3",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}용서 못 해！！ 인정 못 해！！\n이런 허수아비 따위・・・！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_0#4",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}이・・・ 갈리의 이름을 걸고！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_0#5",
+     "flags": 7,
+     "ko": "{b5}ＧＲ－２：{br}비고트 국장！ 하나 물어봐도 돼？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_0#6",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}・・・뭐냐？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_0#7",
+     "flags": 7,
+     "ko": "{b5}ＧＲ－２：{br}이 녀석은 날 모조품이라고\n부르는데・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_0#8",
+     "flags": 7,
+     "ko": "{b5}ＧＲ－２：{br}내가 이기면 내가 오리지널이고,\n저 녀석을 모조품이라 불러도\n되겠지？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_0#9",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}닥쳐！！",
+     "status": "draft",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "M4/G/MP201_1",
+   "files": [
+    {
+     "path": "/M4/G/MP201_1.LDP;1",
+     "offset": 174080
+    }
+   ],
+   "sha256": "276875d55c355d0daef1504843ae19577be7ea327a127d567d37e2e9d6d6d4b3",
+   "font_candidates": [
+    "K04_1"
+   ],
+   "lines": [
+    {
+     "id": "M4/G/MP201_1#0",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}마치・・・마치 악몽이라도\n꾸고 있는 것 같아・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#1",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}이런 꼭두각시 인형한테\n내 기갑술이・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#2",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}인정하고・・・싶지 않아！！\n내 방랑의 １０년이・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#3",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}이런 전투 머신을 위해\n있었다니・・・！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#4",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}이제・・・나, 지쳤어・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#5",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}이제 싸움은・・・싫어・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#6",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}간신히 레플리카를\n쓰러뜨린 모양이군？\nＧ－１・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#7",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}테스트는 끝났다・・・\n노바 체포 임무를 계속해라！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#8",
+     "flags": 7,
+     "ref": "M3/A/MP103_3#42"
+    },
+    {
+     "id": "M4/G/MP201_1#9",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}왜 그러나！？ 일어나라！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#10",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}죽여・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#11",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}전부 빼앗아 가니・・・\n기분 좋지？ 국장・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#12",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}난 이제 이런 건・・・\n지긋지긋해・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#13",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}무슨 소리냐 Ｇ－１！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#14",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}조금만 더 하면 노바 교수를\n잡을 수 있는데・・・！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#15",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}레플리카한테나 시켜・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#16",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}현시점의 종합 전투력은\n네 쪽이 위라는 것이\n테스트로 밝혀졌다.",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#17",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}명령에 따라라！\n이후 지휘는 내가 직접 맡는다！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#18",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}・・・루는 어떻게 됐어？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#19",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}그녀는 반역죄 혐의로\n연행되었다・・・그 뒤로\n어떻게 될지는 나도 모른다・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#20",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}반역죄？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#21",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}・・・내 탓이야・・・루・・・\n나 같은 걸 위해서・・・？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#22",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}이것이 마지막 임무다！\nＧ－１！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#23",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}이것을 무사히 수행하면\nＴＵＮＥＤ에서 해임하고\n은퇴시켜 주마！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#24",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}・・・자유・・・가・・・？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#25",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}그래・・・！\n퍼기어와의 약속이 있었지・・・！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#26",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}아직・・・\n혼자가 된 건 아니야・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP201_1#27",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}싸우는 거야！！",
+     "status": "draft",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "M4/G/MP204_0",
+   "files": [
+    {
+     "path": "/M4/G/MP204_0.LDP;1",
+     "offset": 122880
+    }
+   ],
+   "sha256": "08e7afc05f2a17ffc173b46bc8071ef68c7a094c8f317c7b8c77e98013bce4fe",
+   "font_candidates": [
+    "K04_1"
+   ],
+   "lines": [
+    {
+     "id": "M4/G/MP204_0#0",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}어때요？\n기동 유닛 상태는？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_0#1",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}헤헤！ 마음에 들어！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_0#2",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}꽤 잘 만들었잖아,\n이 장난감！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_0#3",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}아・・・갈리 씨, 가브리엘의\nＡＩ 감시 시스템이 뭔가를\n포착한 것 같아요！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_0#4",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}아무래도 이 앞 협곡에서・・・\n민간 캐러밴이 도적에게\n습격당하고 있는 것 같아요・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_0#5",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}사용 안 함",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_0#6",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}사용 안 함",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_0#7",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}도적！？ 바잭인가？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_0#8",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}아쉽지만・・・\n거기까지는 확인할 수 없어요.",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_0#9",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}알았어！ 일단 가 보자！",
+     "status": "draft",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "M4/G/MP204_1",
+   "files": [
+    {
+     "path": "/M4/G/MP204_1.LDP;1",
+     "offset": 122880
+    }
+   ],
+   "sha256": "bd7ae2e9dbeabcaec137011486625eccd77a386e25cfcb150cae4736b7b4927e",
+   "font_candidates": [
+    "K00",
+    "K01",
+    "K02",
+    "K03",
+    "K04_0",
+    "K04_1",
+    "K04_2",
+    "K05",
+    "K08"
+   ],
+   "lines": [
+    {
+     "id": "M4/G/MP204_1#0",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}자렘에 있는 게 신이 아니라\n그냥 인간이라면！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_1#1",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}이런 세상은 바꿔야만 해！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_1#2",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}저기・・・갈리 씨・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_1#3",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}・・・케이오스의 트레일러를 쫓겠어・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_1#4",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}그 녀석한테 노바가 있는 곳을\n알아내야 해・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_1#5",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}・・・네・・・\n케이오스 씨의 트레일러를 추적할게요・・・",
+     "status": "draft",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "M4/G/MP204_2",
+   "files": [
+    {
+     "path": "/M4/G/MP204_2.LDP;1",
+     "offset": 194560
+    }
+   ],
+   "sha256": "8324ff7344869917bac3828241d6c1063d2379eb679ccaf60c5ce1e2861cb5d6",
+   "font_candidates": [
+    "K03",
+    "K04_1",
+    "K07",
+    "K08",
+    "K99"
+   ],
+   "lines": [
+    {
+     "id": "M4/G/MP204_2#0",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}이제 곧 그래나이트 인이에요・・・\n갈리 씨！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_2#1",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}케이오스 씨는 따라잡지\n못할 것 같네요・・・{page}그래도 명색이 부자지간이니\n무사하리라 생각하지만요・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_2#2",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}갈리 씨！？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_2#3",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}괜찮아요, 갈리 씨！？\n좀 이상한데요？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_2#4",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}미안・・・ 생각 좀 하느라・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_2#5",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}헉？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_2#6",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}뭣・・・！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_2#7",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}바・・・ 방금 그건！？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP204_2#8",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}・・・나・・・ 야？",
+     "status": "draft",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "M4/G/MP205_0",
+   "files": [
+    {
+     "path": "/M4/G/MP205_0.LDP;1",
+     "offset": 335872
+    }
+   ],
+   "sha256": "0a9ce5a07030978672857051efa7bb216461d64e94bc955f636ca644a693d9ea",
+   "font_candidates": [
+    "K04_1"
+   ],
+   "lines": [
+    {
+     "id": "M4/G/MP205_0#0",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}갈리 씨～！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#1",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}이 개 좀 비키라고 해 주세요～・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#2",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}아하하・・・ 왠지 초현실적이라 좋네.",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#3",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}퓨리도 나이가 많거든～.",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#4",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}이젠 노망이 나서・・・\n한번 잠들면 뭘 해도 안 일어나.",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#5",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}그런데・・・\n아까 코요미가 말한 케이오스 님이란・・・？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#6",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}몰라？ 라디오 케이오스・・・\n지금 엄청 인기 많은데！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#7",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}주로 케이오스 님이 만든 곡을 트는\n방송국인데, 그 곡이 진짜 끝내줘！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#8",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}뭐랄까・・・ 마음에 스며든다고 할까！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#9",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}그리고！ 케이오스 님은！{page}음악이 입장의 차이를 넘어 많은 사람들의\n마음의 양식이 되길 바란대！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#10",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}흐응・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#11",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}난 이제 완전히 빠져 버려서・・・{page}그래서 일부러 히치하이크까지 해서,\n케이오스 님 만나러 가기로 결심한 거야！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#12",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}흐응・・・ 그렇구나・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#13",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}・・・라디오 케이오스・・・라.",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#14",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}나도 만나 보고 싶네・・・\n그 케이오스라는 남자를・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#15",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}그럼 있잖아！\n갈리 언니도 같이 가자！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#16",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}여럿이 가면 시끌벅적하고 재밌잖아！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#17",
+     "flags": 7,
+     "ko": "{WS2503}{BKC333}{FRC1}{b3}루：{br}갈리 씨～・・・ 그～ 케이오스란 사람을\n만나는 것도 좋지만, 덴을 찾아내야 한다는\n것도 잊지 말아 주세요～・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#18",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}덴・・・이라면, 그・・・\n바잭인가 하는 도적단의 수령？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#19",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}・・・응・・・ 뭐, 그렇지・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#20",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}바잭에라도 들어갈 생각이야？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#21",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}후후・・・ 글쎄？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#22",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}그래도 그렇다면 딱 잘됐다！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#23",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}덴도 라디오 케이오스 팬인 것 같으니까\n・・・케이오스 님이 뭔가 알려 주지 않을까？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#24",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}그래？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#25",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}정말이에요, 그거？ 운이 좋네요！\n갈리 씨！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#26",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}・・・말 많은 오토바이네～・・・\n이것도 사이보그？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#27",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}괜찮지？ 내 단짝이야, 루라고 해.",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#28",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}루：{br}저기요！\n오토바이가 말하는 게 아니라고요！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#29",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}그럼 말야！ 그럼・・・\n퓨리랑 오토바이를 걸고 게임 안 할래？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#30",
+     "flags": 7,
+     "ko": "{b2}갈리：{br}난 장난으로 내기는 안 하는 주의야！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP205_0#31",
+     "flags": 7,
+     "ko": "{b3}코요미：{br}칫！ 재미없어！",
+     "status": "draft",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "M4/G/MP217_0",
+   "files": [
+    {
+     "path": "/M4/G/MP217_0.LDP;1",
+     "offset": 194560
+    }
+   ],
+   "sha256": "ab0aa8599ef7c59ac3a7100b96fb1b9112b7f6cfcf9c4781025fb081f9da80ca",
+   "font_candidates": [
+    "K04_0"
+   ],
+   "lines": [
+    {
+     "id": "M4/G/MP217_0#0",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}휴우！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP217_0#1",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}그야말로 위기일발이었구먼・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP217_0#2",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}사, 살았어！？ 퍼기어・・・ 나・・・\n살아 있는 거야？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP217_0#3",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}하하！ 멀쩡히 살아 있다네！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP217_0#4",
+     "flags": 7,
+     "ref": "M4/A/MP211_0#22"
+    }
+   ]
+  },
+  {
+   "id": "M4/G/MP218_0",
+   "files": [
+    {
+     "path": "/M4/G/MP218_0.LDP;1",
+     "offset": 200704
+    }
+   ],
+   "sha256": "1e5d3812c3a3139119e4c9306c1ca6494131fdd479c272d794d849112d3db626",
+   "font_candidates": [
+    "K04_0"
+   ],
+   "lines": [
+    {
+     "id": "M4/G/MP218_0#0",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}이 멍청한 것！ 내・・・ 내 명령을\n어기고・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#1",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}쓰레기나 다름없는 현지인을 위해\n위험을 무릅쓰다니・・・！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#2",
+     "flags": 7,
+     "ko": "{b3}갈리：{br}비고트 국장！ 자렘인만 인간인\n건 아니야！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#3",
+     "flags": 7,
+     "ko": "{b3}갈리：{br}지금까지 참아 왔지만・・・ 오늘만큼은\n말해야겠어！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#4",
+     "flags": 7,
+     "ko": "{b3}갈리：{br}당신이 자렘에서 편히 지낼 수 있는 건\n・・・누구 덕분이야！？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#5",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}마・・・ 말을 삼가라 Ｇ－１！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#6",
+     "flags": 7,
+     "ko": "{b3}갈리：{br}당신들 식량을 만들고・・・ 옷을 짜고\n・・・오물을 처리하고・・・ 피를 흘리며\n싸우는 건 누구야！？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#7",
+     "flags": 7,
+     "ko": "{b3}갈리：{br}우리 지상인이야！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#8",
+     "flags": 7,
+     "ko": "{b3}갈리：{br}당신 같은 냉혈한한테 지시받는 건\n이제 질렸어！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#9",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}으, 으악・・・ 버, 벌써 저기까지\n왔어！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#10",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}뭐 하는 겐가！ 피하게！！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#11",
+     "flags": 7,
+     "ko": "{b3}갈리：{br}뭣！？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#12",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}Ｇ－１！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#13",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}응답해라！ Ｇ－１！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP218_0#14",
+     "flags": 7,
+     "ko": "{BKC333}{FRC1}{b3}비고트：{br}큭！・・・ 이럴 수가・・・",
+     "status": "draft",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "M4/G/MP220_0",
+   "files": [
+    {
+     "path": "/M4/G/MP220_0.LDP;1",
+     "offset": 110592
+    }
+   ],
+   "sha256": "ded26c6007cdb280c5b0359f238eb73ea4004e593bf26d8cca94758a83386a81",
+   "font_candidates": [
+    "K04_0"
+   ],
+   "lines": [
+    {
+     "id": "M4/G/MP220_0#0",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}휴・・・그 상황에서 살아났다는 게\n아직도 믿기지 않는구먼・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#1",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}오늘 밤 별은 유난히 더 반짝여\n보이는구먼・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#2",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}그나저나 갈리는 어디에 간 게야？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#3",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}그, 글쎄・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#4",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}괴, 괜히 집적댈 생각이면 관둬・・・\n수명이 줄어든다고.",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#5",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}목숨까지 구해 줬는데 아직도 그런\n미신 같은 소리를 하는 겐가！ 멍청한 놈！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#6",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}그, 그치만・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#7",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}포, 퍼기어도 봤잖아？ 그 여자의\n엄청난 전투 능력・・・그건 괴물이라고・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#8",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}나는 널브러진 시체밖에 못\n봤네만・・・{page}역시 그게 전부 갈리가 한\n짓이란 말인가？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#9",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}그, 그렇다니까！ 나, 난 다리가\n끼여서 못 움직이는 동안 쭉 지켜봤는데・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#10",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}저, 저 많은 적을 전멸시키는 데・・・\n고작 수십 초밖에 안 걸렸다고？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#11",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}무, 무시무시한 공격력이야・・・\n역시 그 여자는・・・주, 죽음의 천사야・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#12",
+     "flags": 7,
+     "ref": "M4/A/MP211_0#27"
+    },
+    {
+     "id": "M4/G/MP220_0#13",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}그, 그건 그렇고 그 여자・・・\n어, 어째서 우릴 구해 준 걸까？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#14",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}무슨 소린가！ 같은 팩토리의 용병\n동료로서 당연한 일 아닌가？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#15",
+     "flags": 7,
+     "ko": "{WS2503}{b3}요르그：{br}그, 그 여자는 용병이 아니야・・・\n뭐, 뭔가 다른 목적이 있어서 열차에 탄\n것 같고・・・{page}따, 딱히 우릴 구할 이유 같은 건 없었을\n텐데？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#16",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}・・・그것도 그렇구먼・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#17",
+     "flags": 7,
+     "ko": "{WS2503}{b3}요르그：{br}주, 죽음의 천사는 아무래도・・・\n팩토리 운영 관리와는 전혀 별개로\n움직이는 것 같아.{page}데, 데크맨에 대한 명령권까지\n갖고 있는 것 같고・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#18",
+     "flags": 7,
+     "ko": "{s3}{t0}{a1}{n1}그러고 보니・・・열차가 폭발했을 때도・・・\n지붕에서 데크맨한테 명령하고 있었구먼？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#19",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}여, 역시 우리는・・・그, 그냥\n변덕으로 구해진 걸까？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#20",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}후후후・・・알았구먼！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#21",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}갈리는・・・나한테 마음이 있는 게야！",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#22",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}・・・뭐？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#23",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}・・・농담일세・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#24",
+     "flags": 7,
+     "ko": "{b2}퍼기어：{br}자, 그럼 잠깐 찾으러 가 볼까・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#25",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}그, 그런데・・・와, 왠지 추워지는\n것 같지 않아？",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#26",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}가, 갑자기 하늘도 수상해진 것\n같고・・・",
+     "status": "draft",
+     "note": ""
+    },
+    {
+     "id": "M4/G/MP220_0#27",
+     "flags": 7,
+     "ko": "{b3}요르그：{br}이, 이거 뇌우라도 오려나？{page}빠, 빨리 여기서 뜨는 게 좋을지도\n모르겠는걸・・・",
+     "status": "draft",
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

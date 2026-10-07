@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "profiles": [
+    {
+      "id": "slps-01408-redump",
+      "title": "Gunnm: Kasei no Kioku (銃夢 火星の記憶)",
+      "region": "Japan",
+      "serial": "SLPS-01408",
+      "edition": "Original",
+      "exe_date": "1998-06-18",
+      "reference": "http://redump.org/disc/5375/",
+      "layout": "single data track, MODE2/2352, cue+bin",
+      "tracks": [
+        {
+          "number": 1,
+          "type": "MODE2/2352",
+          "sectors": 225612,
+          "size": 530639424,
+          "crc32": "156c4055",
+          "md5": "f50f9d35a5f141eb473bf244bda5c1e2",
+          "sha1": "856da69190b13b3a3502006364d5ee13626f5830",
+          "sha256": "095ebf216ba9a4c8e0146c54cff3309fda3280f592c29ec844b3f395fa130783"
+        }
+      ],
+      "fingerprints": {
+        "boot": "cdrom:\\SLPS_014.08;1",
+        "iso_volume_space": 225612,
+        "libcrypt": false
+      }
+    }
+  ]
+}

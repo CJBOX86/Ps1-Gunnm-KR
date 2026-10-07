@@ -1,0 +1,7 @@
+{
+ "file": "NanumMyeongjo-ExtraBold.ttf",
+ "sha256": "60c0077fce069ba90ae97c0a3679f6eb3712e0ca637bdd0c15b72d335ec46db7",
+ "origin": "https://github.com/google/fonts/tree/main/ofl/nanummyeongjo",
+ "license": "SIL Open Font License 1.1 (OFL.txt)",
+ "use": "타이틀 로고 한글화 (tools/GRAPHICS/title_logo.py)"
+}

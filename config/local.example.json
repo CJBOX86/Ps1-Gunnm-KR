@@ -1,0 +1,5 @@
+{
+  "source_bin": "../Gunnm - Kasei no Kioku (Japan)/Gunnm - Kasei no Kioku (Japan).bin",
+  "emulator": "../duckstation/duckstation-qt-x64-ReleaseLTCG.exe",
+  "xdelta3": "../xdelta3/xdelta3.exe"
+}

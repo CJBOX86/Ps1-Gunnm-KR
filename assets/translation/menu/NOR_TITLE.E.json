@@ -1,0 +1,101 @@
+{
+ "file": "/NOR/TITLE.E;1",
+ "strings": [
+  {
+   "id": "NOR/TITLE.E@1FCC",
+   "offset": 8140,
+   "slot": 11,
+   "ko": "전멸",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/TITLE.E@1FD8",
+   "offset": 8152,
+   "slot": 7,
+   "ko": "무적",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/TITLE.E@1FE0",
+   "offset": 8160,
+   "slot": 7,
+   "ko": "돈",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/TITLE.E@1FE8",
+   "offset": 8168,
+   "slot": 11,
+   "ko": "스테레오",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/TITLE.E@1FF4",
+   "offset": 8180,
+   "slot": 11,
+   "ko": "모노",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/TITLE.E@2000",
+   "offset": 8192,
+   "slot": 31,
+   "ko": "　스타트 버튼을 누르세요",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/TITLE.E@2034",
+   "offset": 8244,
+   "slot": 19,
+   "ko": "　　　게임 시작",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/TITLE.E@2060",
+   "offset": 8288,
+   "slot": 19,
+   "ko": "　　　　　옵션",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/TITLE.E@20B8",
+   "offset": 8376,
+   "slot": 23,
+   "ko": "　　　　메시지 속도",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/TITLE.E@20E4",
+   "offset": 8420,
+   "slot": 7,
+   "ko": "느림",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/TITLE.E@2110",
+   "offset": 8464,
+   "slot": 7,
+   "ko": "빠름",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/TITLE.E@213C",
+   "offset": 8508,
+   "slot": 19,
+   "ko": "　　　　사운드",
+   "status": "draft",
+   "note": ""
+  }
+ ]
+}

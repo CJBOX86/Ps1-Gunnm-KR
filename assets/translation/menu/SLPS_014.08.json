@@ -1,0 +1,1045 @@
+{
+ "file": "/SLPS_014.08;1",
+ "strings": [
+  {
+   "id": "SLPS_014.08@0B70",
+   "offset": 2928,
+   "slot": 11,
+   "ko": "파츠　",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0B7C",
+   "offset": 2940,
+   "slot": 11,
+   "ko": "원거리",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0B88",
+   "offset": 2952,
+   "slot": 11,
+   "ko": "무　기　",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0B94",
+   "offset": 2964,
+   "slot": 11,
+   "ko": "보디　",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0BA0",
+   "offset": 2976,
+   "slot": 11,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@0BAC",
+   "offset": 2988,
+   "slot": 19,
+   "ko": "전투시 마크 표시",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0BC0",
+   "offset": 3008,
+   "slot": 11,
+   "ko": "사운드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0BCC",
+   "offset": 3020,
+   "slot": 19,
+   "ko": "메시지 속도",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0BE0",
+   "offset": 3040,
+   "slot": 11,
+   "ko": "스테레오",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0BEC",
+   "offset": 3052,
+   "slot": 11,
+   "ko": "모노",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0C18",
+   "offset": 3096,
+   "slot": 19,
+   "ko": "\n해제했습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0C2C",
+   "offset": 3116,
+   "slot": 19,
+   "ko": "\n해제하겠습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0C40",
+   "offset": 3136,
+   "slot": 19,
+   "ko": "\n장비했습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0C54",
+   "offset": 3156,
+   "slot": 19,
+   "ko": "\n장비하겠습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0C68",
+   "offset": 3176,
+   "slot": 15,
+   "ko": "\n사용했다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0C78",
+   "offset": 3192,
+   "slot": 19,
+   "ko": "\n사용하겠습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0C8C",
+   "offset": 3212,
+   "slot": 19,
+   "ko": "\n버렸습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@0CA0",
+   "offset": 3232,
+   "slot": 19,
+   "ko": "\n버리겠습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@AABE",
+   "offset": 43710,
+   "slot": 4,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@B16A",
+   "offset": 45418,
+   "slot": 4,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@B1FE",
+   "offset": 45566,
+   "slot": 4,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@C56A",
+   "offset": 50538,
+   "slot": 4,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@E992",
+   "offset": 59794,
+   "slot": 4,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@FAE6",
+   "offset": 64230,
+   "slot": 4,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@7D3E0",
+   "offset": 512992,
+   "slot": 11,
+   "ko": "아이템",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7D3EC",
+   "offset": 513004,
+   "slot": 11,
+   "ko": "원거리",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7D3F8",
+   "offset": 513016,
+   "slot": 11,
+   "ko": "플라즈마",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7D404",
+   "offset": 513028,
+   "slot": 11,
+   "ko": "옵션",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7D410",
+   "offset": 513040,
+   "slot": 11,
+   "ko": "내구력：",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7D41C",
+   "offset": 513052,
+   "slot": 11,
+   "ko": "플라즈마：",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7D428",
+   "offset": 513064,
+   "slot": 11,
+   "ko": "정　서　：",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7D434",
+   "offset": 513076,
+   "slot": 11,
+   "ko": "공격력：",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7D440",
+   "offset": 513088,
+   "slot": 11,
+   "ko": "방어력：",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7D44C",
+   "offset": 513100,
+   "slot": 11,
+   "ko": "기　　：",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7D458",
+   "offset": 513112,
+   "slot": 11,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@7D464",
+   "offset": 513124,
+   "slot": 19,
+   "ko": "몇 개 살까요？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DC10",
+   "offset": 515088,
+   "slot": 19,
+   "ko": "반짝반짝소녀 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DC28",
+   "offset": 515112,
+   "slot": 19,
+   "ko": "버서커 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DC40",
+   "offset": 515136,
+   "slot": 23,
+   "ko": "모터볼 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DC58",
+   "offset": 515160,
+   "slot": 23,
+   "ko": "모터볼 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DC70",
+   "offset": 515184,
+   "slot": 19,
+   "ko": "액티브 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DC88",
+   "offset": 515208,
+   "slot": 19,
+   "ko": "ＴＵＮＥＤ 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DCA0",
+   "offset": 515232,
+   "slot": 19,
+   "ko": "이매지노스 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DCB8",
+   "offset": 515256,
+   "slot": 19,
+   "ko": "이매지노스 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DCD0",
+   "offset": 515280,
+   "slot": 19,
+   "ko": "이매지노스 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DCE8",
+   "offset": 515304,
+   "slot": 19,
+   "ko": "（리메이라 변장）",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DD00",
+   "offset": 515328,
+   "slot": 7,
+   "ko": "이드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DD18",
+   "offset": 515352,
+   "slot": 7,
+   "ko": "생체",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DD30",
+   "offset": 515376,
+   "slot": 15,
+   "ko": "아리타 보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DD48",
+   "offset": 515400,
+   "slot": 7,
+   "ko": "생체",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7DD60",
+   "offset": 515424,
+   "slot": 7,
+   "ko": "생체",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E35C",
+   "offset": 516956,
+   "slot": 19,
+   "ko": "풀 리페어 키트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E384",
+   "offset": 516996,
+   "slot": 19,
+   "ko": "하이 리페어 키트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E3AC",
+   "offset": 517036,
+   "slot": 15,
+   "ko": "리페어 키트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E3D4",
+   "offset": 517076,
+   "slot": 11,
+   "ko": "통조림",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E3FC",
+   "offset": 517116,
+   "slot": 19,
+   "ko": "플라즈마 맥시마",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E424",
+   "offset": 517156,
+   "slot": 19,
+   "ko": "플라즈마 하프",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E44C",
+   "offset": 517196,
+   "slot": 19,
+   "ko": "플라즈마 서플라이",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E474",
+   "offset": 517236,
+   "slot": 11,
+   "ko": "인공심장",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E49C",
+   "offset": 517276,
+   "slot": 11,
+   "ko": "구운 푸딩",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E4C4",
+   "offset": 517316,
+   "slot": 15,
+   "ko": "보디 플레이트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E4EC",
+   "offset": 517356,
+   "slot": 15,
+   "ko": "파워 칩",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E514",
+   "offset": 517396,
+   "slot": 15,
+   "ko": "가드 칩",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E53C",
+   "offset": 517436,
+   "slot": 19,
+   "ko": "팔라듐 큐브",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E564",
+   "offset": 517476,
+   "slot": 23,
+   "ko": "１０기가바이트ＤＲＡＭ",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E58C",
+   "offset": 517516,
+   "slot": 19,
+   "ko": "갈에데 블레이드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E5B4",
+   "offset": 517556,
+   "slot": 23,
+   "ko": "Ｎ다마스쿠스 블레이드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E5DC",
+   "offset": 517596,
+   "slot": 19,
+   "ko": "팔터 블레이드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E604",
+   "offset": 517636,
+   "slot": 19,
+   "ko": "세라믹 나이프",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E62C",
+   "offset": 517676,
+   "slot": 19,
+   "ko": "컴뱃 나이프",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E654",
+   "offset": 517716,
+   "slot": 19,
+   "ko": "서바이벌 나이프",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E67C",
+   "offset": 517756,
+   "slot": 15,
+   "ko": "보위 나이프",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E6A4",
+   "offset": 517796,
+   "slot": 23,
+   "ko": "Ｂ다마스쿠스 블레이드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E6CC",
+   "offset": 517836,
+   "slot": 19,
+   "ko": "오스도그 블레이드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E6F4",
+   "offset": 517876,
+   "slot": 19,
+   "ko": "다마스쿠스블레이드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E71C",
+   "offset": 517916,
+   "slot": 15,
+   "ko": "쿠크리 나이프",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E744",
+   "offset": 517956,
+   "slot": 15,
+   "ko": "아세이미나이프",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E76C",
+   "offset": 517996,
+   "slot": 7,
+   "ko": "대거",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E794",
+   "offset": 518036,
+   "slot": 19,
+   "ko": "버서커 건",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E7BC",
+   "offset": 518076,
+   "slot": 23,
+   "ko": "버서커 건 탄환",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E7E4",
+   "offset": 518116,
+   "slot": 15,
+   "ko": "ＴＵＮＥＤ 건",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E80C",
+   "offset": 518156,
+   "slot": 23,
+   "ko": "ＴＵＮＥＤ 건 탄환",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E834",
+   "offset": 518196,
+   "slot": 15,
+   "ko": "폭음탄",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E85C",
+   "offset": 518236,
+   "slot": 11,
+   "ko": "수리검",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E884",
+   "offset": 518276,
+   "slot": 11,
+   "ko": "엔케라",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E8AC",
+   "offset": 518316,
+   "slot": 15,
+   "ko": "미사일 비",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E8D4",
+   "offset": 518356,
+   "slot": 15,
+   "ko": "에레키 텔",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E8FC",
+   "offset": 518396,
+   "slot": 15,
+   "ko": "전자 니들",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E924",
+   "offset": 518436,
+   "slot": 7,
+   "ko": "화염병",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E94C",
+   "offset": 518476,
+   "slot": 15,
+   "ko": "커맨드 파츠",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E974",
+   "offset": 518516,
+   "slot": 23,
+   "ko": "쇼크 업소버",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E99C",
+   "offset": 518556,
+   "slot": 23,
+   "ko": "제너레이터 유닛",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E9C4",
+   "offset": 518596,
+   "slot": 23,
+   "ko": "플라즈마 서브 유닛",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7E9EC",
+   "offset": 518636,
+   "slot": 19,
+   "ko": "플라즈마 유닛",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EA14",
+   "offset": 518676,
+   "slot": 15,
+   "ko": "클리어 사이트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EA3C",
+   "offset": 518716,
+   "slot": 15,
+   "ko": "레이저 사이트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EA64",
+   "offset": 518756,
+   "slot": 19,
+   "ko": "부스트 유닛",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EA8C",
+   "offset": 518796,
+   "slot": 23,
+   "ko": "리스토러 유닛",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EAB4",
+   "offset": 518836,
+   "slot": 23,
+   "ko": "플라즈마 차저",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EADC",
+   "offset": 518876,
+   "slot": 23,
+   "ko": "실드 제너레이터",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EB04",
+   "offset": 518916,
+   "slot": 15,
+   "ko": "아뮬렛",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EB2C",
+   "offset": 518956,
+   "slot": 23,
+   "ko": "에너지 디튜너",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EB54",
+   "offset": 518996,
+   "slot": 19,
+   "ko": "진료소 열쇠１",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EB7C",
+   "offset": 519036,
+   "slot": 19,
+   "ko": "진료소 열쇠２",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EBA4",
+   "offset": 519076,
+   "slot": 19,
+   "ko": "기억뇌 카트리지",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EBCC",
+   "offset": 519116,
+   "slot": 11,
+   "ko": "유발인자",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@7EBF4",
+   "offset": 519156,
+   "slot": 15,
+   "ko": "엔드 코드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8E9A8",
+   "offset": 584104,
+   "slot": 7,
+   "ko": "무기",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8E9B0",
+   "offset": 584112,
+   "slot": 7,
+   "ko": "무　기",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8E9B8",
+   "offset": 584120,
+   "slot": 7,
+   "ko": "파츠",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8E9C0",
+   "offset": 584128,
+   "slot": 7,
+   "ko": "로드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8E9C8",
+   "offset": 584136,
+   "slot": 7,
+   "ko": "뒤　로",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8E9D0",
+   "offset": 584144,
+   "slot": 7,
+   "ko": "뒤로",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8E9D8",
+   "offset": 584152,
+   "slot": 7,
+   "ko": "사　용",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8E9E0",
+   "offset": 584160,
+   "slot": 7,
+   "ko": "장　비",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8E9E8",
+   "offset": 584168,
+   "slot": 7,
+   "ko": "해　제",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8E9F0",
+   "offset": 584176,
+   "slot": 7,
+   "ko": "버리기",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8E9F8",
+   "offset": 584184,
+   "slot": 7,
+   "ko": "조사",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8EA00",
+   "offset": 584192,
+   "slot": 7,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@8EA08",
+   "offset": 584200,
+   "slot": 7,
+   "ko": "보디",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8EA14",
+   "offset": 584212,
+   "slot": 7,
+   "ko": "칩",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8EA20",
+   "offset": 584224,
+   "slot": 7,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@8EA38",
+   "offset": 584248,
+   "slot": 7,
+   "ko": "아니요",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8EA40",
+   "offset": 584256,
+   "slot": 7,
+   "ko": "예",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8EA48",
+   "offset": 584264,
+   "slot": 7,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@8EA50",
+   "offset": 584272,
+   "slot": 7,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@8EA58",
+   "offset": 584280,
+   "slot": 7,
+   "ko": "빠름",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8EA60",
+   "offset": 584288,
+   "slot": 7,
+   "ko": "느림",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "SLPS_014.08@8EA84",
+   "offset": 584324,
+   "slot": 7,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "SLPS_014.08@8EA8C",
+   "offset": 584332,
+   "slot": 7,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  }
+ ]
+}

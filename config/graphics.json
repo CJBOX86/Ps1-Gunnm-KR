@@ -1,0 +1,144 @@
+{
+  "note": "그래픽 텍스트 교체 (tools/GRAPHICS/gfx_text.py, 타이틀 로고는 tools/GRAPHICS/title_logo.py). 원본 TIM 크기·팔레트 유지, 픽셀만 다시 그림. 저작권 표기는 원본 유지",
+  "fonts": {
+    "assets/fonts/sources/pretendard/Pretendard-Black.otf": "94628b0bcea8936b6e5c30d98d685eb9bbaffb0fe2ed255542ecc656c248e021",
+    "assets/fonts/sources/blackhansans/BlackHanSans-Regular.ttf": "31960809284026681774a8e52dc19ebcad26cf69b0ad9d560f288296fbb52739",
+    "assets/fonts/sources/nanummyeongjo/NanumMyeongjo-ExtraBold.ttf": "60c0077fce069ba90ae97c0a3679f6eb3712e0ca637bdd0c15b72d335ec46db7",
+    "assets/fonts/sources/galmuri11/Galmuri11.ttf": "e24256f42e43713d2ea086a1e1669d78b968f5b3cc547e5c157f0606ffa5def1"
+  },
+  "images": [
+    {
+      "file": "/DATA/OMAKE320.TIM;1",
+      "src": "おまけ",
+      "font": "assets/fonts/sources/pretendard/Pretendard-Black.otf",
+      "size": 96,
+      "fit": true,
+      "margin": 2,
+      "lines": [
+        {
+          "text": "보너스",
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "file": "/DATA/W_MAP002.TIM;1",
+      "src": "クズ鉄町東部地区",
+      "font": "assets/fonts/sources/pretendard/Pretendard-Black.otf",
+      "size": 17,
+      "lines": [
+        {
+          "text": "고철마을 동부 지구",
+          "x": 2,
+          "y": -1
+        }
+      ],
+      "tracking": 1
+    },
+    {
+      "file": "/DATA/W_MAP012.TIM;1",
+      "src": "クズ鉄町西部地区",
+      "font": "assets/fonts/sources/pretendard/Pretendard-Black.otf",
+      "size": 17,
+      "lines": [
+        {
+          "text": "고철마을 서부 지구",
+          "x": 2,
+          "y": -1
+        }
+      ],
+      "tracking": 1
+    },
+    {
+      "file": "/DATA/W_MAP022.TIM;1",
+      "src": "荒野西南地方",
+      "font": "assets/fonts/sources/pretendard/Pretendard-Black.otf",
+      "size": 17,
+      "lines": [
+        {
+          "text": "황야 서남 지방",
+          "x": 2,
+          "y": -1
+        }
+      ],
+      "tracking": 1
+    },
+    {
+      "file": "/DATA/W_MAP032.TIM;1",
+      "src": "ザレム",
+      "font": "assets/fonts/sources/pretendard/Pretendard-Black.otf",
+      "size": 17,
+      "tracking": 11,
+      "lines": [
+        {
+          "text": "자렘",
+          "x": 2,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "file": "/DATA/W_MAP042.TIM;1",
+      "src": "イェール",
+      "font": "assets/fonts/sources/pretendard/Pretendard-Black.otf",
+      "size": 17,
+      "tracking": 11,
+      "lines": [
+        {
+          "text": "예일",
+          "x": 2,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "file": "/DATA/W_MAP052.TIM;1",
+      "src": "レヴァイアサン１ / プラットフォーム",
+      "font": "assets/fonts/sources/pretendard/Pretendard-Black.otf",
+      "size": 12,
+      "tracking": 1,
+      "lines": [
+        {
+          "text": "레비아탄１",
+          "x": 2,
+          "y": -1
+        },
+        {
+          "text": "플랫폼",
+          "align": "right",
+          "x": 4,
+          "y": 9
+        }
+      ]
+    },
+    {
+      "file": "/DATA/W_MAP062.TIM;1",
+      "src": "火星",
+      "font": "assets/fonts/sources/pretendard/Pretendard-Black.otf",
+      "size": 17,
+      "tracking": 7,
+      "lines": [
+        {
+          "text": "화성",
+          "x": 2,
+          "y": -1
+        }
+      ]
+    }
+  ],
+  "title_logo": {
+    "file": "/DATA/TITLE.BIN;1",
+    "tool": "tools/GRAPHICS/title_logo.py",
+    "src": "銃夢 / -火星の記憶-",
+    "ko": "총몽 / -화성의 기억-",
+    "scale": 0.78,
+    "credit": {
+      "text": "한글패치  리샤오랑",
+      "font": "assets/fonts/sources/galmuri11/Galmuri11.ttf",
+      "size": 12,
+      "x": 320,
+      "y": 463
+    }
+  }
+}

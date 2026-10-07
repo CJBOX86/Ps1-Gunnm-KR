@@ -1,0 +1,701 @@
+{
+ "file": "/NOR/LOADSAVE.E;1",
+ "strings": [
+  {
+   "id": "NOR/LOADSAVE.E@8414",
+   "offset": 33812,
+   "slot": 11,
+   "ko": "　　오류",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8420",
+   "offset": 33824,
+   "slot": 11,
+   "ko": "보　너　스",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@842C",
+   "offset": 33836,
+   "slot": 11,
+   "ko": "취　　　소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8438",
+   "offset": 33848,
+   "slot": 11,
+   "ko": "처음부터",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8444",
+   "offset": 33860,
+   "slot": 19,
+   "ko": "메모리 카드２",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8458",
+   "offset": 33880,
+   "slot": 19,
+   "ko": "메모리 카드１",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@846C",
+   "offset": 33900,
+   "slot": 23,
+   "ko": "항목을 선택하세요",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8484",
+   "offset": 33924,
+   "slot": 31,
+   "ko": "확인 중・・・잠시 기다리세요",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@84A4",
+   "offset": 33956,
+   "slot": 107,
+   "ko": "{WS2507}{BL1608}\n\n　　　　　　　{g8}포맷에 실패했습니다。\n\n　　　{g8}데이터가 손상되었을 수 있습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8510",
+   "offset": 34064,
+   "slot": 91,
+   "ko": "　　　메모리 카드가 꽂혀 있지 않습니다。\n　　　　세이브할 수 없는데 괜찮습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@856C",
+   "offset": 34156,
+   "slot": 87,
+   "ko": "　　　　　메모리 카드가 망가졌습니다。\n　　　　세이브할 수 없는데 괜찮습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@85C4",
+   "offset": 34244,
+   "slot": 107,
+   "ko": "{WS2507}{BL1608}\n\n　　　　　메모리 카드 슬롯２에 꽂힌\n\n　　　　　메모리 카드가 망가졌습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8630",
+   "offset": 34352,
+   "slot": 107,
+   "ko": "{WS2507}{BL1608}\n\n　　　　　메모리 카드 슬롯１에 꽂힌\n\n　　　　　메모리 카드가 망가졌습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@869C",
+   "offset": 34460,
+   "slot": 103,
+   "ko": "{WS2507}{BL1608}\n\n　　　　　　　메모리 카드 슬롯２에\n\n　　　　　　메모리 카드가 없습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8704",
+   "offset": 34564,
+   "slot": 103,
+   "ko": "{WS2507}{BL1608}\n\n　　　　　　　메모리 카드 슬롯１에\n\n　　　　　　메모리 카드가 없습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@876C",
+   "offset": 34668,
+   "slot": 87,
+   "ko": "　　　　　　　빈 블록이 부족합니다。\n　　　　세이브할 수 없는데 괜찮습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@87C4",
+   "offset": 34756,
+   "slot": 27,
+   "ko": null,
+   "status": "keep",
+   "note": "시간 표시 서식(숫자 자리 채움)"
+  },
+  {
+   "id": "NOR/LOADSAVE.E@87E0",
+   "offset": 34784,
+   "slot": 55,
+   "ko": "{WS2507}{BL1608}\n\n\n　　　　　　　　　포맷 완료！",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8818",
+   "offset": 34840,
+   "slot": 51,
+   "ko": "{WS2507}{BL1608}\n\n\n　　　　　　　　{g8}세이브 완료！",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@884C",
+   "offset": 34892,
+   "slot": 51,
+   "ko": "{WS2507}{BL1608}\n\n\n　　　　　　　　　{g8}로드 완료！",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8880",
+   "offset": 34944,
+   "slot": 75,
+   "ko": "　　메모리 카드１\n\n파일１\n파일２\n파일３\n\n취소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@88D0",
+   "offset": 35024,
+   "slot": 107,
+   "ko": "{WS2507}{BL1608}\n\n　　　　　　세이브하지 못했습니다。\n\n　　　{g8}데이터가 손상되었을 수 있습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@893C",
+   "offset": 35132,
+   "slot": 91,
+   "ko": "{WS2507}{BL1608}\n　　　　　　　　　　{g8}세이브 중\n\n　　　　　{g8}메모리 카드를 빼지 마세요",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8998",
+   "offset": 35224,
+   "slot": 47,
+   "ko": "　　{g8}여기에 덮어씁니다。 괜찮습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@89C8",
+   "offset": 35272,
+   "slot": 107,
+   "ko": "{WS2507}{BL1608}\n\n　　　　　　　로드하지 못했습니다。\n\n　　　{g8}데이터가 손상되었을 수 있습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8A34",
+   "offset": 35380,
+   "slot": 91,
+   "ko": "{WS2507}{BL1608}\n　　　　　　　　　　{g8}로드 중\n\n　　　　　{g8}메모리 카드를 빼지 마세요。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8A90",
+   "offset": 35472,
+   "slot": 47,
+   "ko": "　　이 데이터를 로드합니다。 괜찮습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8AC0",
+   "offset": 35520,
+   "slot": 91,
+   "ko": "　메모리 카드가 제대로 꽂혀 있지 않습니다\n　　　　세이브할 수 없는데 괜찮습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8B1C",
+   "offset": 35612,
+   "slot": 95,
+   "ko": "{WS2507}{BL1608}\n\n　　　　　　　　　　포맷 중\n\n　　　　　메모리 카드를 빼지 마세요。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8B7C",
+   "offset": 35708,
+   "slot": 87,
+   "ko": "　　　{g8}메모리 카드가 포맷되지 않았습니다。\n　　　　　　　　포맷하시겠습니까？",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8BD4",
+   "offset": 35796,
+   "slot": 99,
+   "ko": "{WS2507}{BL1608}\n\n　　　　　　빈 블록이 부족합니다。\n\n　　　　{g8}데이터를 저장할 수 없습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8C38",
+   "offset": 35896,
+   "slot": 63,
+   "ko": "{WS2507}{BL1608}\n\n\n　　　　　저장된 데이터가 없습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8C78",
+   "offset": 35960,
+   "slot": 67,
+   "ko": "{WS2507}{BL1608}\n\n\n　메모리 카드가 제대로 꽂혀 있지 않습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8CBC",
+   "offset": 36028,
+   "slot": 63,
+   "ko": "{WS2507}{BL1608}\n\n\n　　　{g8}메모리 카드를 확인하고 있습니다。",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8CFC",
+   "offset": 36092,
+   "slot": 31,
+   "ko": "「빈 블록이 없습니다」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8D1C",
+   "offset": 36124,
+   "slot": 19,
+   "ko": "「파일 오류」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8D30",
+   "offset": 36144,
+   "slot": 19,
+   "ko": "「카드 오류」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8D44",
+   "offset": 36164,
+   "slot": 31,
+   "ko": "「포맷되지 않았습니다」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8D64",
+   "offset": 36196,
+   "slot": 31,
+   "ko": "「메모리 카드가 없습니다」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8D84",
+   "offset": 36228,
+   "slot": 23,
+   "ko": "「데이터가 없습니다」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8D9C",
+   "offset": 36252,
+   "slot": 23,
+   "ko": "・・・확인 중・・・",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8DB4",
+   "offset": 36276,
+   "slot": 19,
+   "ko": "보　　{g8}너　　{g8}스",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8DC8",
+   "offset": 36296,
+   "slot": 27,
+   "ko": "취　{g5}소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8DE4",
+   "offset": 36324,
+   "slot": 23,
+   "ko": "처　{g5}음　{g5}부　{g5}터",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8DFC",
+   "offset": 36348,
+   "slot": 7,
+   "ko": "아니요",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8E04",
+   "offset": 36356,
+   "slot": 7,
+   "ko": "　예",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8E0C",
+   "offset": 36364,
+   "slot": 23,
+   "ko": null,
+   "status": "keep",
+   "note": "숫자 글리프 표"
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8E24",
+   "offset": 36388,
+   "slot": 15,
+   "ko": "축하 파티",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8E34",
+   "offset": 36404,
+   "slot": 23,
+   "ko": "「가자！ 화성으로！」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8E4C",
+   "offset": 36428,
+   "slot": 23,
+   "ko": "레비아탄１ 거주구",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8E64",
+   "offset": 36452,
+   "slot": 23,
+   "ko": "그래나이트 인 입구",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8E7C",
+   "offset": 36476,
+   "slot": 31,
+   "ko": "「고마워 저슈건」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8E9C",
+   "offset": 36508,
+   "slot": 11,
+   "ko": "에필로그",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8EA8",
+   "offset": 36520,
+   "slot": 27,
+   "ko": "모터볼 서킷",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8EC4",
+   "offset": 36548,
+   "slot": 27,
+   "ko": "「안　녕　・・・」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8EE0",
+   "offset": 36576,
+   "slot": 15,
+   "ko": "자우어 묘소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8EF0",
+   "offset": 36592,
+   "slot": 11,
+   "ko": "기갑술계곡",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8EFC",
+   "offset": 36604,
+   "slot": 15,
+   "ko": "화성성 지하실",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8F0C",
+   "offset": 36620,
+   "slot": 7,
+   "ko": "화성성",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8F14",
+   "offset": 36628,
+   "slot": 27,
+   "ko": "「레비아탄１로！！」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8F30",
+   "offset": 36656,
+   "slot": 11,
+   "ko": "소형우주정",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8F3C",
+   "offset": 36668,
+   "slot": 23,
+   "ko": "우주제일 토너먼트장",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8F54",
+   "offset": 36692,
+   "slot": 19,
+   "ko": "예일 가든",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8F68",
+   "offset": 36712,
+   "slot": 27,
+   "ko": "「가자！ 예일로！！」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8F84",
+   "offset": 36740,
+   "slot": 27,
+   "ko": "이니시에이션룸 입구",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8FA0",
+   "offset": 36768,
+   "slot": 27,
+   "ko": "더스트 체임버 트랩",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8FBC",
+   "offset": 36796,
+   "slot": 11,
+   "ko": "청천 공원",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8FC8",
+   "offset": 36808,
+   "slot": 31,
+   "ko": "「너・・・너는！ 설마！？」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@8FE8",
+   "offset": 36840,
+   "slot": 23,
+   "ko": "그래나이트 인 최하층",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@9000",
+   "offset": 36864,
+   "slot": 23,
+   "ko": "그래나이트 인 회랑",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@9018",
+   "offset": 36888,
+   "slot": 15,
+   "ko": "농장 ２１",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@9028",
+   "offset": 36904,
+   "slot": 15,
+   "ko": "농장 ２２",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@9038",
+   "offset": 36920,
+   "slot": 31,
+   "ko": "「아하하・・・살아 있었구나」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@9058",
+   "offset": 36952,
+   "slot": 7,
+   "ko": "사막",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@9060",
+   "offset": 36960,
+   "slot": 11,
+   "ko": "유적 도시",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@906C",
+   "offset": 36972,
+   "slot": 27,
+   "ko": "팩토리 철도 사고 현장",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@9088",
+   "offset": 37000,
+   "slot": 19,
+   "ko": "팩토리 철도",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@909C",
+   "offset": 37020,
+   "slot": 31,
+   "ko": "「이드를 만나러 가야 해！」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@90BC",
+   "offset": 37052,
+   "slot": 19,
+   "ko": "고철마을（붕괴후）",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@90D0",
+   "offset": 37072,
+   "slot": 11,
+   "ko": "지하하수갱",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@90DC",
+   "offset": 37084,
+   "slot": 19,
+   "ko": "팩토리 ３３",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@90F0",
+   "offset": 37104,
+   "slot": 31,
+   "ko": "「눈물은 그를 위해 흘렀다」",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@9110",
+   "offset": 37136,
+   "slot": 23,
+   "ko": "이드 다이스케 정비소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@9128",
+   "offset": 37160,
+   "slot": 19,
+   "ko": "어딘가의 세이브소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@913C",
+   "offset": 37180,
+   "slot": 23,
+   "ko": "파일이 손상되었습니다",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/LOADSAVE.E@965C",
+   "offset": 38492,
+   "slot": 15,
+   "ko": null,
+   "status": "keep",
+   "note": "메모리 카드 파일 제목 — 본체(BIOS) 화면에 표시되므로 한글 불가"
+  },
+  {
+   "id": "NOR/LOADSAVE.E@A244",
+   "offset": 41540,
+   "slot": 7,
+   "ko": null,
+   "status": "keep",
+   "note": "서식용 문자열"
+  }
+ ]
+}

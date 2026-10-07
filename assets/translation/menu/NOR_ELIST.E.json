@@ -1,0 +1,77 @@
+{
+ "file": "/NOR/ELIST.E;1",
+ "strings": [
+  {
+   "id": "NOR/ELIST.E@1FBC",
+   "offset": 8124,
+   "slot": 11,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "NOR/ELIST.E@1FC8",
+   "offset": 8136,
+   "slot": 7,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "NOR/ELIST.E@2234",
+   "offset": 8756,
+   "slot": 19,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "NOR/ELIST.E@2250",
+   "offset": 8784,
+   "slot": 11,
+   "ko": "이름：",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/ELIST.E@226C",
+   "offset": 8812,
+   "slot": 15,
+   "ko": "신장：",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/ELIST.E@2288",
+   "offset": 8840,
+   "slot": 15,
+   "ko": "체중：",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/ELIST.E@22A4",
+   "offset": 8868,
+   "slot": 7,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "NOR/ELIST.E@22C0",
+   "offset": 8896,
+   "slot": 7,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "NOR/ELIST.E@22DC",
+   "offset": 8924,
+   "slot": 15,
+   "ko": "현상금：",
+   "status": "draft",
+   "note": ""
+  }
+ ]
+}

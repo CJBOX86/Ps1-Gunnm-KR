@@ -1,0 +1,36 @@
+이 저장소의 내용은 부분마다 라이선스가 다릅니다.
+
+1. 도구 코드 (tools/, 그 밖의 스크립트·설정) — MIT License (아래 전문)
+2. 글꼴 (assets/fonts/sources/*) — 각 폴더의 OFL.txt (SIL Open Font License 1.1)
+   Galmuri11 © Lee Minseo / Pretendard © Kil Hyung-jin / Black Han Sans © The Black Han Sans Project Authors /
+   NanumMyeongjo © NHN Corporation
+3. 번역문 (assets/translation/) — 리샤오랑의 기여분에 한해 CC BY-NC-SA 4.0
+   https://creativecommons.org/licenses/by-nc-sa/4.0/
+   번역은 원작 게임 대본의 2차 저작물이며, 원작의 권리는 원작 권리자에게 있습니다.
+4. 원작 게임 『銃夢 -火星の記憶-』과 그 데이터(이미지, 대사 원문 등)는 이 저장소에 포함되지 않으며
+   어떤 라이선스도 부여하지 않습니다.
+   © 木城ゆきと / YUKITO PRODUCTS INC. © 集英社 / ヤングジャンプコミックス刊 © Ea © BANPRESTO 1998
+
+----------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2026 리샤오랑
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

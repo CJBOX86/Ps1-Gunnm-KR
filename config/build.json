@@ -1,0 +1,28 @@
+{
+  "name": "gunnm-kr-dev",
+  "policy": "비배포 개발 빌드: 상태가 draft 이상인 번역 초안을 기술 검증에 사용한다. 검토·배포 승인을 뜻하지 않는다.",
+  "use_statuses": [
+    "draft",
+    "review",
+    "decision",
+    "done"
+  ],
+  "glyph_render": {
+    "font": "assets/fonts/sources/galmuri11/Galmuri11.ttf",
+    "font_sha256": "e24256f42e43713d2ea086a1e1669d78b968f5b3cc547e5c157f0606ffa5def1",
+    "size": 12,
+    "offset": [
+      0,
+      0
+    ],
+    "threshold": "1bit",
+    "note": "배포용 한글 글꼴 Galmuri11 (OFL 1.1, D-004). 12px에서 글자 범위 y 1~12px라 13x13 칸에 그대로 들어간다"
+  },
+  "out_dir": "work/out",
+  "exe_patches": [
+    "config/patches/halfwidth-space.json"
+  ],
+  "font_assignment": "chapter",
+  "font_assignment_note": "chapter: 블록마다 폰트 표 순서상 첫 후보 하나에만 글자를 공급(개발용 추정, 장면↔폰트 실측 전). all: 후보 전부(안전하지만 부분 번역 상태에서 용량 초과)",
+  "revert_on_overflow": true
+}

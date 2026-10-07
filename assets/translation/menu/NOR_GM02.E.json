@@ -1,0 +1,573 @@
+{
+ "file": "/NOR/GM02.E;1",
+ "strings": [
+  {
+   "id": "NOR/GM02.E@C0AC",
+   "offset": 49324,
+   "slot": 7,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "NOR/GM02.E@23314",
+   "offset": 144148,
+   "slot": 11,
+   "ko": "정크 남자",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23374",
+   "offset": 144244,
+   "slot": 19,
+   "ko": "빅 숄더",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@233D4",
+   "offset": 144340,
+   "slot": 19,
+   "ko": "아미 사이버네",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23434",
+   "offset": 144436,
+   "slot": 11,
+   "ko": "Ｔ헤드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23494",
+   "offset": 144532,
+   "slot": 7,
+   "ko": "이즈치",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@234F4",
+   "offset": 144628,
+   "slot": 15,
+   "ko": "무장 사이버네",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23554",
+   "offset": 144724,
+   "slot": 11,
+   "ko": "ＭＢ 졸개",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@235B4",
+   "offset": 144820,
+   "slot": 7,
+   "ko": "유고",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23614",
+   "offset": 144916,
+   "slot": 11,
+   "ko": "Ｔ헤드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23674",
+   "offset": 145012,
+   "slot": 7,
+   "ko": "자팡",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@236D4",
+   "offset": 145108,
+   "slot": 7,
+   "ko": "자팡",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23734",
+   "offset": 145204,
+   "slot": 7,
+   "ko": "자팡",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23794",
+   "offset": 145300,
+   "slot": 7,
+   "ko": "마카쿠",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@237F4",
+   "offset": 145396,
+   "slot": 7,
+   "ko": "마카쿠",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23854",
+   "offset": 145492,
+   "slot": 7,
+   "ko": "노바",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@238B4",
+   "offset": 145588,
+   "slot": 15,
+   "ko": "격투 사이버네",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23914",
+   "offset": 145684,
+   "slot": 15,
+   "ko": "우주 사이버네",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23974",
+   "offset": 145780,
+   "slot": 19,
+   "ko": "목인",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@239D4",
+   "offset": 145876,
+   "slot": 15,
+   "ko": "소바트맨",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23A34",
+   "offset": 145972,
+   "slot": 15,
+   "ko": "무사 사이보그",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23A94",
+   "offset": 146068,
+   "slot": 15,
+   "ko": "저슈건",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23AF4",
+   "offset": 146164,
+   "slot": 7,
+   "ko": "갈리",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23BB4",
+   "offset": 146356,
+   "slot": 7,
+   "ko": "케이나",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23C14",
+   "offset": 146452,
+   "slot": 11,
+   "ko": null,
+   "status": "keep",
+   "note": "번역 불필요(기호·서식·영문, 또는 문자열이 아닌 바이트)"
+  },
+  {
+   "id": "NOR/GM02.E@23C74",
+   "offset": 146548,
+   "slot": 11,
+   "ko": "일라이",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23CD4",
+   "offset": 146644,
+   "slot": 11,
+   "ko": "센티넬",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23D34",
+   "offset": 146740,
+   "slot": 11,
+   "ko": "갈에데",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23D94",
+   "offset": 146836,
+   "slot": 7,
+   "ko": "즈오우",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23DF4",
+   "offset": 146932,
+   "slot": 7,
+   "ko": "즈오우",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23E54",
+   "offset": 147028,
+   "slot": 15,
+   "ko": "클라이브 리",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23EB4",
+   "offset": 147124,
+   "slot": 11,
+   "ko": "의사왕",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23F74",
+   "offset": 147316,
+   "slot": 7,
+   "ko": "갈리",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@23FD4",
+   "offset": 147412,
+   "slot": 15,
+   "ko": "저슈건",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24034",
+   "offset": 147508,
+   "slot": 7,
+   "ko": "즈오우",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24094",
+   "offset": 147604,
+   "slot": 15,
+   "ko": "닌자 １호",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@240F4",
+   "offset": 147700,
+   "slot": 15,
+   "ko": "닌자 ２호",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24154",
+   "offset": 147796,
+   "slot": 15,
+   "ko": "닌자 ３호",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@241B4",
+   "offset": 147892,
+   "slot": 15,
+   "ko": "닌자 ４호",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24214",
+   "offset": 147988,
+   "slot": 15,
+   "ko": "블랙 독",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24274",
+   "offset": 148084,
+   "slot": 19,
+   "ko": "버서커 화성곰",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@242D4",
+   "offset": 148180,
+   "slot": 15,
+   "ko": "버서커 소",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24334",
+   "offset": 148276,
+   "slot": 15,
+   "ko": "소켓병Ａ",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24394",
+   "offset": 148372,
+   "slot": 15,
+   "ko": "소켓병Ｂ",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@243F4",
+   "offset": 148468,
+   "slot": 11,
+   "ko": "커맨더",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24454",
+   "offset": 148564,
+   "slot": 7,
+   "ko": "주사마",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@244B4",
+   "offset": 148660,
+   "slot": 11,
+   "ko": "드럼통남자",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24514",
+   "offset": 148756,
+   "slot": 15,
+   "ko": "너클헤드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24574",
+   "offset": 148852,
+   "slot": 15,
+   "ko": "보즐 대령",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@245D4",
+   "offset": 148948,
+   "slot": 15,
+   "ko": "보즐 대령",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24634",
+   "offset": 149044,
+   "slot": 15,
+   "ko": "너클헤드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24694",
+   "offset": 149140,
+   "slot": 11,
+   "ko": "모스맨",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@246F4",
+   "offset": 149236,
+   "slot": 11,
+   "ko": "도마뱀남자",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24754",
+   "offset": 149332,
+   "slot": 11,
+   "ko": "개구리남자",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@247B4",
+   "offset": 149428,
+   "slot": 15,
+   "ko": "미러 아이즈",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24814",
+   "offset": 149524,
+   "slot": 15,
+   "ko": "엔젤 하트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24874",
+   "offset": 149620,
+   "slot": 15,
+   "ko": "에콘드라이트",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@248D4",
+   "offset": 149716,
+   "slot": 15,
+   "ko": "퓨저너",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24934",
+   "offset": 149812,
+   "slot": 15,
+   "ko": "뮤턴트 여자",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24994",
+   "offset": 149908,
+   "slot": 23,
+   "ko": "버서커 우드맨",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@249F4",
+   "offset": 150004,
+   "slot": 19,
+   "ko": "버서커 우드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24A54",
+   "offset": 150100,
+   "slot": 23,
+   "ko": "버서커 정크 남자",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24AB4",
+   "offset": 150196,
+   "slot": 7,
+   "ko": "메길",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24B14",
+   "offset": 150292,
+   "slot": 11,
+   "ko": "바자르드",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24B74",
+   "offset": 150388,
+   "slot": 15,
+   "ko": "키칸보야마",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24BD4",
+   "offset": 150484,
+   "slot": 11,
+   "ko": "베헤모스",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24C34",
+   "offset": 150580,
+   "slot": 15,
+   "ko": "포촘킨",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24C94",
+   "offset": 150676,
+   "slot": 15,
+   "ko": "ＭＩＢ 머신",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24CF4",
+   "offset": 150772,
+   "slot": 11,
+   "ko": "워멘",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24D54",
+   "offset": 150868,
+   "slot": 11,
+   "ko": "이동 금고",
+   "status": "draft",
+   "note": ""
+  },
+  {
+   "id": "NOR/GM02.E@24DB4",
+   "offset": 150964,
+   "slot": 7,
+   "ko": "엔드",
+   "status": "draft",
+   "note": ""
+  }
+ ]
+}

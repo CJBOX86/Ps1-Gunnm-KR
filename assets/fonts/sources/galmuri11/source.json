@@ -1,0 +1,10 @@
+{
+ "id": "galmuri11",
+ "file": "Galmuri11.ttf",
+ "sha256": "e24256f42e43713d2ea086a1e1669d78b968f5b3cc547e5c157f0606ffa5def1",
+ "origin": "https://github.com/quiple/galmuri/releases/download/v2.40.4/Galmuri-v2.40.4.zip (Galmuri11.ttf)",
+ "version": "v2.40.4",
+ "license": "SIL Open Font License 1.1 (OFL.txt) — 수정·재배포 허용, 글꼴 단독 판매 금지, 예약 글꼴 이름 'Galmuri' 사용 제한",
+ "use": "대사·메뉴 한글 음절 글리프. 12px, 1bit(임계값), 13x13 칸 좌상단 (0,0) — 글자 범위 y 1~12px",
+ "adopted": "2026-10-07 사용자 선택 (D-004)"
+}

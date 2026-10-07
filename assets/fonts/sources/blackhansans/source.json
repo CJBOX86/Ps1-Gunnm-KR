@@ -1,0 +1,7 @@
+{
+ "file": "BlackHanSans-Regular.ttf",
+ "sha256": "31960809284026681774a8e52dc19ebcad26cf69b0ad9d560f288296fbb52739",
+ "origin": "https://github.com/google/fonts/tree/main/ofl/blackhansans",
+ "license": "SIL Open Font License 1.1 (OFL.txt)",
+ "use": "타이틀 로고 한글화 (tools/GRAPHICS/title_logo.py)"
+}
