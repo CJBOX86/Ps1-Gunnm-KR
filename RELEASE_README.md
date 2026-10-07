@@ -1,7 +1,7 @@
 # 총몽 -화성의 기억- 한글패치
 
 - 원제: 銃夢 -火星の記憶- (PlayStation, 1998, BANPRESTO)
-- 패치 버전: v0.9 (베타) — 버전 번호는 배포 시 확정
+- 패치 버전: v0.1 (베타)
 - 한글화: **리샤오랑**
 
 ---
@@ -17,22 +17,19 @@ PlayStation 게임 『銃夢 -火星の記憶-』의 비공식 한글패치입�
 
 ## 필요한 원본
 
-이 패치는 아래 **Redump 덤프 원본**에만 적용됩니다. 다른 덤프나 변환본(CHD, ISO, PBP 등)에는 적용되지 않습니다.
+이 패치는 Redump 덤프 원본에만 적용됩니다 (http://redump.org/disc/5375/). 가지고 있는 원본 `.bin`의 해시가 아래와 같은지 확인하세요.
 
-| 항목 | 값 |
+| 해시 | 값 |
 |---|---|
-| 파일 | Gunnm - Kasei no Kioku (Japan).bin (cue + bin, 트랙 1개) |
-| 크기 | 530,639,424 byte |
-| CRC32 | 156c4055 |
-| MD5 | f50f9d35a5f141eb473bf244bda5c1e2 |
-| SHA-1 | 856da69190b13b3a3502006364d5ee13626f5830 |
-
-참고: http://redump.org/disc/5375/
+| CRC32 | `156c4055` |
+| MD5 | `f50f9d35a5f141eb473bf244bda5c1e2` |
+| SHA-1 | `856da69190b13b3a3502006364d5ee13626f5830` |
+| SHA-256 | `095ebf216ba9a4c8e0146c54cff3309fda3280f592c29ec844b3f395fa130783` |
 
 ## 적용 방법
 
 1. xdelta 적용 프로그램(예: xdelta UI, Delta Patcher)을 실행합니다.
-2. 원본 파일에 `Gunnm - Kasei no Kioku (Japan).bin`, 패치 파일에 `gunnm-kr.xdelta`를 지정합니다.
+2. 원본 파일에 가지고 있는 원본 `.bin`, 패치 파일에 `gunnm-kr.xdelta`를 지정합니다.
 3. 출력 파일 이름을 정하고(예: `Gunnm-KR.bin`) 적용합니다.
 4. 원본 `.cue` 파일을 복사해 이름을 `Gunnm-KR.cue`로 바꾸고, 메모장으로 열어 `FILE "…"` 줄의 파일 이름을 `Gunnm-KR.bin`으로 고칩니다.
 5. 에뮬레이터(DuckStation 등)에서 `Gunnm-KR.cue`를 엽니다.
@@ -46,7 +43,7 @@ PlayStation 게임 『銃夢 -火星の記憶-』의 비공식 한글패치입�
 
 ## 글꼴 라이선스
 
-패치에 들어간 한글 글리프는 아래 글꼴로 만들었습니다. 모두 SIL Open Font License 1.1 글꼴이며, 라이선스 전문은 함께 배포하는 `fonts/` 폴더(저장소의 `assets/fonts/sources/*/OFL.txt`)에 있습니다.
+패치에 들어간 한글 글리프는 아래 글꼴로 만들었습니다. 모두 SIL Open Font License 1.1 글꼴이며, 라이선스 전문은 함께 배포하는 `fonts/` 폴더에 있습니다.
 
 | 용도 | 글꼴 | 저작권 |
 |---|---|---|
@@ -65,4 +62,4 @@ PlayStation 게임 『銃夢 -火星の記憶-』의 비공식 한글패치입�
 ## 만든 사람
 
 - 한글화: 리샤오랑
-- 문의·제보: (연락처 또는 배포처 기입)
+- 문의·제보: https://github.com/CJBOX86/Ps1-Gunnm-KR/issues

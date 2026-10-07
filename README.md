@@ -10,6 +10,22 @@ PlayStation 『銃夢 -火星の記憶-』(Gunnm: Kasei no Kioku, SLPS-01408, 19
 > 이 저장소에는 게임 원본, 원본에서 추출한 데이터, **일본어 원문 대사**가 들어 있지 않습니다.
 > 빌드와 원문 대조에는 직접 가진 원본 디스크 이미지가 필요합니다.
 
+## 작업 원본 (ROM)
+
+이 패치는 아래 **Redump 덤프 원본**을 기준으로 만들었고, 이 원본에만 적용됩니다. 다른 덤프나 변환본(CHD, ISO, PBP 등)에는 적용되지 않습니다.
+
+| 항목 | 값 |
+|---|---|
+| 형식 | cue + bin, 트랙 1개, MODE2/2352 |
+| 시리얼 | SLPS-01408 |
+| 크기 | 530,639,424 byte |
+| CRC32 | `156c4055` |
+| MD5 | `f50f9d35a5f141eb473bf244bda5c1e2` |
+| SHA-1 | `856da69190b13b3a3502006364d5ee13626f5830` |
+| SHA-256 | `095ebf216ba9a4c8e0146c54cff3309fda3280f592c29ec844b3f395fa130783` |
+
+참고: [redump.org/disc/5375](http://redump.org/disc/5375/)
+
 ## 패치만 쓰려면
 
 [Releases](../../releases)에서 xdelta 패치를 받아 원본에 적용하세요. 필요한 원본(Redump 덤프)과 적용 방법은 [RELEASE_README.md](RELEASE_README.md)에 있습니다.
